@@ -1,6 +1,10 @@
 ---
 title: Big Data & Democracy
-authors: [Dave Kinkead, David Douglas]
+authors: 
+  - name: Dave Kinkead
+    email: d.kinkead@uq.edu.au
+  - name: David Douglas
+    email: dmdouglas256@tuta.io
 status: outline
 ---
 
