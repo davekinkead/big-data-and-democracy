@@ -23,7 +23,7 @@ Attributes of communication networks
 The Historical Account
 
   - history of democracy from the perspective of media networks
-  - athenians (agora, symmetric active & passive participation, local demos)
+  - Athenians (agora, symmetric active & passive participation, local demos)
   - federalists (newspaper, asymmetric favouring active participants, regional demos)
   - 1920's (radio, more asymemetric to active, national demos)
   - mass media (tv, huge asymmetry to active, very broad demos)
@@ -32,6 +32,7 @@ The Historical Account
 # Individualised Media fragements the Demos
 
 Demonstrate how new media fragments traditional mass media networks
+^[DD: Need to define media fragments: perhaps 'news presented devoid of context and quality signifiers'?]
 
   - how does the internet fragment our comms networks?
   - distinction between following blogs/producers & SM news feed
@@ -47,8 +48,8 @@ Demonstrate how new media fragments traditional mass media networks
 
 Modes of influence
 
-  1. Hyper-targeted political advertising (Cambridge analytics)
-  2. Curation alorithms (goole search, FB news feed)
+  1. Hyper-targeted political advertising (Cambridge Analytics)
+  2. Curation algorithms (Google search, FB news feed)
 
   - Condorcet Jury Theorems
     - echo chamber undermines the competence condition but not the independence if we ignore psych data 
