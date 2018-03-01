@@ -14,7 +14,36 @@ status: outline
 * Reach and scale.
 * "We are now free to engage in political bullshit."
 
-Fishkin?
+Public political discussion becomes important when those who are influenced by them have the power to act on them. 
+
+
+
+
+# Political Communication and Discussion
+
+The classical model of communication has four components: the communication source, the message communicated, the medium or channel used, and the receiver of the communication [@lilleber_key_2006, p. 17]. The medium may be speech, text printed in a book or pamphlet, sound, images, and video transmitted by mass media. The medium affects how many people can receive it. We will call these attributes the *reach* of the communication.
+
+A whispered conversation has a targeted, narrow audience: the source and receiver speak to each other face-to-face. A television broadcast potentially has an audience of millions. As this example suggests, different media have different levels of accessibility to citizens: anyone capable of hearing and speech can engage in a whispered discussion with another, but a television broadcast requires airtime on a television network. The cost of using the medium to communicate with the desired audience affects how accessible it is to each citizen.
+
+Political discussion aims to convince others of the merits of a political goal. It becomes necessary when political actors (those with the means to implement or prevent political action) differ in their views and their compliance cannot be enforced through the threat or use of violence. 
+
+The *reach* of political discussion encompasses the political actors whose agreement is needed to achieve political goals. The reach of a tyrant's political discussion may only need to include his trusted advisors if his decisions can be imposed on others. Similarly for an aristocracy or an oligarchy, the reach of political discussion only needs to enclose those whose views affect the likelihood of a political decision being put in place. These political discussions are *private* as they do not involve the public. With democracy, however, and the inclusion of a broader group than a ruling class or group into political decision making, the need for *public* political discussion emerges.
+
+# The Agora: Beginnings of Public Political Discussion
+
+The fledgling democracy of Athens is the starting point of our whirlwind history of public political discussion. 
+Democracy makes it important that political discussion is *public*.
+
+From the *agora* we can also distinguish between two forms of political discussion: reasonable and sophisty. Reasonable political discussion moves from accepted premises towards a conclusion that supports a political action.
+Sophisty uses tools of peruasion to encourage support for a political action that is not justified by a defensible argument. 
+
+Reasonable political discussion therefore places much significance on the truth of the premises used to support the conclusion. 
+
+While sophisty is effective, it carries the risk of being identified as a *sophist*. There is a reputational risk to employing sophisty for political ends: it may be effective now, but future attempts to persuade others may be undermined if the baseless claims and faulty logic used in the past are called out. 
+
+Using reason for political peruasion does not have the same reputational risk.
+
+The face-to-face communication of the *agora* allows speakers to discriminate between audience. You could shout and be heard by all, or you could whisper and be heard by one. 
 
 * Agora
 ** Political discussion is public.
@@ -23,12 +52,24 @@ Fishkin?
 ** Sophistry is possible, but carries a reputational cost.
 ** "No reputational cost in being reasonable."
 
+# The Federalist Papers
+
+Democracy next appears in North America, as the colonies who successfully rebelled against Great Britain begin to grapple with the problem of how their new nation should be governed. Public political discussion played a crucial role in encouraging and maintaining popular support for the rebellion. 
+
+ The historical ideal of this is the Federalist papers, a collection of articles appearing in various New York newspapers in support of the proposed Constitution for the future United States.
+ 
+
 * Federalist
 ** Political discussion is public.
 ** Political discussion is both face-to-face, either individually or in groups, and via newspapers and pamphlets.
 ** Political discussion can occur over a larger geographical area.
 ** Define features of reach and discrimination. 
 ** Conception of the demos increases, message discrimination decreases.
+
+# Mass Media
+
+Events in other countries and on foreign continents becomes visible in a shorter timescale.
+
 
 * Mass Media
 ** Political discussion is public.
@@ -39,19 +80,24 @@ Fishkin?
 ** Increased centralisation of power within states, and emerge of super-national governmental bodies.
 ** Cost increases. Communication becomes unidirectional.
 
+# The Initial Promise of the Internet
+
 * Utopian Internet (Barlow/Rheingold)
 ** Political discussion is public.
 ** Political discussion is possible between anyone nationally and internationally.
 ** Maximal reach (geographical and numerical), bidirectional communication at minimal cost.
 ** Message discrimination remains difficult.
 
-* Big Data and Social Media
+# Social Media and Big Data
+
 ** Political discussion is private.
 ** Specialised audiences can be identified and targeted with political discussion that is tailored to provoke a particular response.
 ** Decouples message discrimination from reach.
 "Reduced the cost of being unreasonable."
 
-"You could shout and be heard by all, or you could whisper and be heard by one."
+
+# Epistemic Justifications for Democracy
+
 
 
 Political persuasion occurs via various means. Discounting violence and the threat of force, political views may persuade through defensible reasoning, their coherence with previously-held beliefs and knowledge about the world, or by appeals to emotions and biases, or through the charisma and reputation of their proponents. While the ideal of democratic decision making is that citizens' decisions are based on evidence-based reasoning, the reality is that factors such the charisma of those promoting political views or appeals to emotion and biases are as great (if not greater) factors in how the *demos* makes decisions.
@@ -60,9 +106,9 @@ Our account is based on representing a democratic political community, or *demos
 
 # Communication Between Citizens
 
-The classical model of communication has four components: the communication source, the message communicated, the medium or channel used, and the receiver of the communication [@lilleber_key_2006, p. 17]. The medium may be speech, text printed in a book or pamphlet, sound, images, and video transmitted by mass media. The medium affects how quickly a message is conveyed and to how many people can receive it. A whispered conversation has a targeted, narrow audience: the source and receiver speak to each other face-to-face. A television broadcast potentially has an audience of millions. As this example suggests, different media have different levels of accessibility to citizens: anyone capable of hearing and speech can engage in a whispered discussion with another, but a television broadcast requires airtime on a television network. The cost of using the medium to communicate with the desired audience affects how accessible it is to each citizen.
 
-The medium also affects whether messages are *static* or *transient*. Static messages remain accessible after they are communicated, allowing both the original receiver and others to review the message's content at any time. Transient messages are not recorded after they are expressed: they exist only in the memories of the source and receiver. As a result, there is the opportunity to deny or revise the message's content if challenged. Static messages remain the same as long as the recording medium it exists, although the message's context may change. The sources and receivers of transient messages may record them in a static form so that it may inform or persuade those outside of the message's original audience. 
+
+The medium also affects whether messages are *static* or *ephemeral*. Static messages remain accessible after they are communicated, allowing both the original receiver and others to review the message's content at any time. Ephemeral messages are not recorded after they are expressed: they exist only in the memories of the source and receiver. As a result, there is the opportunity to deny or revise the message's content if challenged. Static messages remain the same as long as the recording medium it exists, although the message's context may change. The sources and receivers of ephemeral messages may record them in a static form so that it may inform or persuade those outside of the message's original audience. 
 
 Communication media also differ in the size of the audience they can reach and whether they can be restricted to specific audiences. A whispered conversation is only received by the individuals hearing it. It is interpersonal communication. The speakers in this situation have a clear intended audience for their message: it is not meant for everyone, and anyone out of earshot will be unaware of what was said. In contrast, television broadcasts are available to all who have a television. A interpersonal communication may be called a *narrowcast* message, as it is restricted to a specific intended audience. This is in contrast with the *broadcast* nature of mass media, where messages are received by those disinterested, neutral, or hostile to the message, as well as the intended audience [@lilleker_key_2006, pp. 46--48].
 
@@ -108,11 +154,11 @@ One-to-Many                         Mass Media
 Many-to-Many                        Utopian Internet
 
 
-The most basic form of political communication is interpersonal discussion, which requires no additional technology to mediate it and only requires the willingness of each citizen to engage in political debate. This includes both the one-to-one communication of two people having a political discussion and the one-to-few communication of someone presenting her views to a group. The historical ideal of this is the *agora* (marketplace) of ancient democratic Athens. Citizenship in ancient Athens was of course highly restricted, so that the majority of the city's population would be hidden nodes in the communication network. These messages may be transient or static, depending on whether it is recorded. Consider the speeches of Demothenes as an example: the orations themselves are transient, and his message is transmitted directly to his audience. Written records of these speeches, either made by Demosthenes himself or members of his audience, place the message in a static form that may be communicated to others.
+The most basic form of political communication is interpersonal discussion, which requires no additional technology to mediate it and only requires the willingness of each citizen to engage in political debate. This includes both the one-to-one communication of two people having a political discussion and the one-to-few communication of someone presenting her views to a group. The historical ideal of this is the *agora* (marketplace) of ancient democratic Athens. Citizenship in ancient Athens was of course highly restricted, so that the majority of the city's population would be hidden nodes in the communication network. These messages may be ephemeral or static, depending on whether it is recorded. Consider the speeches of Demothenes as an example: the orations themselves are ephemeral, and his message is transmitted directly to his audience. Written records of these speeches, either made by Demosthenes himself or members of his audience, place the message in a static form that may be communicated to others.
 
-The increasing accessibility of the printing press made it easier for a larger group of people to widely distribute political messages. A wider range of politically active citizens, outside of the state itself and the wealthy, could now distribute messages to geographically dispersed audiences. The historical ideal of this is the Federalist papers, a collection of articles appearing in various New York newspapers in support of the proposed Constitution for the future United States.  
+The increasing accessibility of the printing press made it easier for a larger group of people to widely distribute political messages. A wider range of politically active citizens, outside of the state itself and the wealthy, could now distribute messages to geographically dispersed audiences.  
 
-The development of broadcast mass media, radio and television, allows messages to be conveyed to large numbers of people instanteously. Broadcast mass media is transient to its audience unless it is recorded.
+The development of broadcast mass media, radio and television, allows messages to be conveyed to large numbers of people instanteously. Broadcast mass media is ephemeral to its audience unless it is recorded.
 
 The Internet was also promoted as an egalitarian tool for political communication. 
 
@@ -122,7 +168,7 @@ The Internet was also promoted as an egalitarian tool for political communicatio
 
 As our quick overview of the different forms of political communication through history suggests, the media available to convey messages affects the number and distribution of citizens who may receive it.
 
-Targeted messaging creates the possibility of wide-ranging narrowcast messaging. Such messages are still static, however. The combination of big data analytics and social media communication creates the new possibility of transient narrowcast messaging. These messages are narrowcast because they are received only by selected citizens, who have been selected due to their susceptability to these messages (as indicated through profiling via big data analytics). Crucially, it also allows these messages to be transient, as conveying the message via social media means it is hidden from other citizens unless a recipient chooses to reveal it to others. As Lilleker [-@lilleker_key_2006, p. 48] rightly observes, narrowcast messages are insecure in that they may still be received by those outside of the targeted audience, or it may be passed onto and reported by the media.^[Lilleker [-@lilleker_key_2006, p. 48] illustrates this point with the example of the Canadian Liberal Party sending cards to different groups of voters that contained opposing campaign pledges.]
+Targeted messaging creates the possibility of wide-ranging narrowcast messaging. Such messages are still static, however. The combination of big data analytics and social media communication creates the new possibility of ephemeral narrowcast messaging. These messages are narrowcast because they are received only by selected citizens, who have been selected due to their susceptability to these messages (as indicated through profiling via big data analytics). Crucially, it also allows these messages to be ephemeral, as conveying the message via social media means it is hidden from other citizens unless a recipient chooses to reveal it to others. As Lilleker [-@lilleker_key_2006, p. 48] rightly observes, narrowcast messages are insecure in that they may still be received by those outside of the targeted audience, or it may be passed onto and reported by the media.^[Lilleker [-@lilleker_key_2006, p. 48] illustrates this point with the example of the Canadian Liberal Party sending cards to different groups of voters that contained opposing campaign pledges.]
 
 > The remaining sections are early notes and the original outline.
 
@@ -138,7 +184,7 @@ Attributes of communication networks
   - 1 to 1, vs 1 to many, many to many, (few to few)
   - geographical reach
   - discrimination of message
-  _ transient/static
+  _ ephemeral/static
 
 
 The Historical Account
@@ -164,23 +210,4 @@ Demonstrate how new media fragments traditional mass media networks
   - "the algorithm is appropriating the agora"
 
 
-# How the fragemented networks effect the necessary conditions of epistemic justifications of democracy
 
-
-Modes of influence
-
-  1. Hyper-targeted political advertising (Cambridge Analytics)
-  2. Curation algorithms (Google search, FB news feed)
-
-  - Condorcet Jury Theorems
-    - echo chamber undermines the competence condition but not the independence if we ignore psych data 
-    - if we accept that group think occurs, then it also undermines the independence claim
-  - Epistemic Proceduralism
-  - Deliberative Democracy
-
-  - how the echo chamber is bad
-  - how the echo chamber is abused
-
-# Prescriptive section
-
-  - ???
