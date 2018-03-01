@@ -1,3 +1,4 @@
+
 ---
 title: Big Data & Democracy
 authors: 
@@ -7,6 +8,51 @@ authors:
     email: dmdouglas256@tuta.io
 status: outline
 ---
+
+* Starting point: Democracy made political discussion public, rather than the private discussions of tyranny and oligarchy.
+* Big data analytics makes public discussions private again.
+* Reach and scale.
+* "We are now free to engage in political bullshit."
+
+Fishkin?
+
+* Agora
+** Political discussion is public.
+** Political discussion is primarily face-to-face, either individually or in groups.
+** Political discussion occurs within a limited geographical area.
+** Sophistry is possible, but carries a reputational cost.
+** "No reputational cost in being reasonable."
+
+* Federalist
+** Political discussion is public.
+** Political discussion is both face-to-face, either individually or in groups, and via newspapers and pamphlets.
+** Political discussion can occur over a larger geographical area.
+** Define features of reach and discrimination. 
+** Conception of the demos increases, message discrimination decreases.
+
+* Mass Media
+** Political discussion is public.
+** Political discussion is broadcast, with the audience being the entire nation.
+** Cost increases.
+** Trade-off between reach (geographic and numeric) and cost.
+** Demos expands beyond the demos.
+** Increased centralisation of power within states, and emerge of super-national governmental bodies.
+** Cost increases. Communication becomes unidirectional.
+
+* Utopian Internet (Barlow/Rheingold)
+** Political discussion is public.
+** Political discussion is possible between anyone nationally and internationally.
+** Maximal reach (geographical and numerical), bidirectional communication at minimal cost.
+** Message discrimination remains difficult.
+
+* Big Data and Social Media
+** Political discussion is private.
+** Specialised audiences can be identified and targeted with political discussion that is tailored to provoke a particular response.
+** Decouples message discrimination from reach.
+"Reduced the cost of being unreasonable."
+
+"You could shout and be heard by all, or you could whisper and be heard by one."
+
 
 Political persuasion occurs via various means. Discounting violence and the threat of force, political views may persuade through defensible reasoning, their coherence with previously-held beliefs and knowledge about the world, or by appeals to emotions and biases, or through the charisma and reputation of their proponents. While the ideal of democratic decision making is that citizens' decisions are based on evidence-based reasoning, the reality is that factors such the charisma of those promoting political views or appeals to emotion and biases are as great (if not greater) factors in how the *demos* makes decisions.
 
