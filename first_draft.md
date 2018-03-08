@@ -23,7 +23,7 @@ Public political discussion becomes important when those who are influenced by t
 
 The classical model of communication has four components: the communication source, the message communicated, the medium or channel used, and the receiver of the communication [@lilleber_key_2006, p. 17]. The medium may be speech, text printed in a book or pamphlet, sound, images, and video transmitted by mass media. The medium affects how many people can receive it.
 
-We will call these attributes the commmunicatin's *reach*.
+We will call these attributes the commmunication's *reach*.
 
 A whispered conversation has a targeted, narrow audience: the source and receiver speak to each other face-to-face. A television broadcast potentially has an audience of millions. As this example suggests, different media have different levels of accessibility to citizens: anyone capable of hearing and speech can engage in a whispered discussion with another, but a television broadcast requires airtime on a television network. The cost of using the medium to communicate with the desired audience affects how accessible it is to a particular individual. 
 
@@ -35,12 +35,17 @@ The political actors who may participate in a political discussion are that disc
 
 # The Agora: Beginnings of Public Political Discussion
 
-As the above suggests, public political discussion is an integral part of a democracy. The reach of public political discussion within democracies has changed as democracies themselves have changed, either through expanding the . We will illustrate how the reach of public political discussion has developed over time with a quick historical overview of public political discussion. This description is intended to signpost changes in how political discussion has occurred rather than present a detailed historical account. The starting point for our brief tour through communication in democracies is the fledging democracy of ancient Athens. 
+As the above suggests, public political discussion is an integral part of a democracy. The reach of public political discussion within democracies has changed as democracies themselves have changed, either through expanding the franchise to greater numbers of people or through new communication technologies. We will illustrate how the reach of public political discussion has developed over time with a quick historical overview of public political discussion. This description is intended to signpost changes in how political discussion has occurred rather than present a detailed historical account. The starting point for our brief tour through communication in democracies is the fledging democracy of ancient Athens. 
 
-From the *agora* we can also distinguish between two forms of political discussion: reasonable and sophisty. Reasonable political discussion moves from accepted premises towards a conclusion that supports a political action.
+The *agora* represents the open forum for political discussion in ancient Athens.
+
+The reach of political discussion was limited to Athenian citizens. Citizenship was  As Athens was a city-state (although one that would gain and lose power across the Greek peninsula), the geographical reach of political discussion did not have to extend far beyond the city (if it had to at all). 
+
+From the *agora* we can also distinguish between two forms of political discussion: reasoned and sophisty. Reasoned political discussion moves from accepted premises towards a conclusion that supports a political action. It therefore places much significance on the truth of the premises used to support the conclusion and whether the conclusion necessarily follows from these premises. If any of the premises are rejected, there is no oligation to accept the conclusion. Reasoned discussion allows for political debate to occur through challenging and defending both the premises of the argument, and the connection between the premises and the conclusion. Ideally, reasoned political discussion should allow those who disagree to understand each other's positions. Ideally, reasoned political discussion allows those who disagree to understand the specific points of disagreement between them and whether agreement can be reached. It opens up political argument to examination and critique, so that the political decisions resulting from it can be defended.  
+
 Sophisty uses tools of peruasion to encourage support for a political action that is not justified by a defensible argument. 
 
-Reasonable political discussion therefore places much significance on the truth of the premises used to support the conclusion. 
+ 
 
 While sophisty is effective, it carries the risk of being identified as a *sophist*. There is a reputational risk to employing sophisty for political ends: it may be effective now, but future attempts to persuade others may be undermined if the baseless claims and faulty logic used in the past are called out. 
 
@@ -55,12 +60,17 @@ The face-to-face communication of the *agora* allows speakers to discriminate be
 ** Sophistry is possible, but carries a reputational cost.
 ** "No reputational cost in being reasonable."
 
+
 # The Federalist Papers
 
 Democracy next appears in North America, as the colonies who successfully rebelled against Great Britain begin to grapple with the problem of how their new nation should be governed. Public political discussion played a crucial role in encouraging and maintaining popular support for the rebellion. 
 
  The historical ideal of this is the Federalist papers, a collection of articles appearing in various New York newspapers in support of the proposed Constitution for the future United States.
  
+The Federalist Papers has its counterpart in the Anti-Federalist, which demonstrates the possibilities of this form of political discussion. 
+
+Neither the Federalists or the Anti-Federalists could tailor their messages to suit particular audiences: their arguments were available to all who could read the newspapers that printed them. 
+As the Anti-Federalist demonstrates, the arguments were visible to political opponents who could respond in kind. 
 
 * Federalist
 ** Political discussion is public.
@@ -83,7 +93,8 @@ Events in other countries and on foreign continents becomes visible in a shorter
 ** Increased centralisation of power within states, and emerge of super-national governmental bodies.
 ** Cost increases. Communication becomes unidirectional.
 
-# The Initial Promise of the Internet
+# The Promise of the Internet
+
 
 * Utopian Internet (Barlow/Rheingold)
 ** Political discussion is public.
