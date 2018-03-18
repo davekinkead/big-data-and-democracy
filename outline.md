@@ -13,11 +13,13 @@ status: outline
 
 Attributes of communication networks
 
-  - asymmetry of power
-  - cost of production
-  - 1 to 1, vs 1 to many, many to many, (few to few)
-  - geographical reach
-  - discrimination of message
+  - democracy as communication
+  - power and pursuasion (asymetry, production cost)
+  - how we pursuade
+  - message reach (1 to 1, vs 1 to many, many to many, few to few)
+  - message discrimination (persistent vs ephemeral)
+  - message direction
+  - message source ??? (hidden via trolls)
 
 
 The Historical Account
