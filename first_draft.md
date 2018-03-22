@@ -10,6 +10,11 @@ status: outline
 bibliography: big_data_and_democracy.bib
 ---
 
+In September 2016, Alexander Nix, the CEO of Cambridge Analytica, gave a presentation at the annual Concordia Summit in New York City. His presentation, 'The Power of Big Data and Psychographics', described how his company had assisted the unsuccessful bid of US Sensor Ted Cruz for the Republican Party nomination for the 2016 US Presidental election. Nix explained that his company had developed a model to "predict the personality of every single adult in the United States of America" based on "hundreds and hundreds of thousands" of responses by Americans to a survey. The purpose of this model was to tailor political messages to target individuals with particular personality traits. As Nix explained: "Today communication is becoming ever increasingly targeted. It's being individualised for every single person in this room. [...] [Y]ou'll only receive adverts that not only are on the products and services, or in the case of elections, issues that you care about most, but that have been nunanced in order to reflect the way you see the world."
+
+While Nix and Cambridge Analytica would later face questions about how they acquired data via a personality test app they deployed on Facebook, the techniques Nix described demonstrate the possibilities for political messaging that the combination of social media and big data analytics offers. Indeed, the campaign to reelect President Barack Obama in the 2012 US Presidental election was famous for its use of social media. 
+
+
 * Starting point: Democracy made political discussion public, rather than the private discussions of tyranny and oligarchy.
 * Big data analytics makes public discussions private again.
 * Reach and scale.
