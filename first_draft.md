@@ -96,9 +96,9 @@ As our quick overview of the different forms of political communication through 
 Medium |                           Direction   |    Reach                    Range |                  Permanence  |       Targeting
 --------                           -----------      -------                  -------                  ------------        -----------
 Face-to-face |                     Bidirectional |  Physical proximity |     Local |                  Ephemeral |         Narrowcast
-Printing                           Bidirectional    National/International | National/International | Static |            Broadcast
-Radio/Television                   Unidirectional   Global                   Global |                 Ephemeral/Static |  Broadcast
-Computer-Medicated Communication   Bidirectional    Global                   Global |                 Static |            Broadcast/Narrowcast
+Printing |                          Bidirectional |   National/International | National/International | Static |            Broadcast
+Radio/Television |                  Unidirectional |  Global |                  Global |                 Ephemeral/Static |  Broadcast
+Computer-Medicated Communication |  Bidirectional |   Global |                  Global |                 Static |            Broadcast/Narrowcast
 
 With the exception of unrecorded radio and television, static messages tend to have a greater reach and range than ephemeral ones. There is a trade-off between reaching a large and geographically disperse audience and limiting that message to a selected group. It becomes more difficult to *target* a specific group within the audience with a broadcast political message in a static form, as static messages are more difficult to restrict to a limited group when they have to be sent across a communication network (such as printers, messengers, and postal services). Static messages have a greater accessibility to others than ephemeral ones. As a result, the greater possibility of having a critical audience and the reputational risks of engaging in sophistry encourage speakers to be reasonable in their arguments and provide justifications for their claims.
 
