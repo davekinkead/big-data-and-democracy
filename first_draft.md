@@ -93,7 +93,7 @@ CMC offered the possibility of returning to the bidirectional (many-to-many) pol
 
 As our quick overview of the different forms of political communication through the history of democracy suggests, the media available to convey messages affects the size and distribution of the possible audience. In the *agora*, speakers could tailor their messages to specific individuals or audiences, but these messages had a limited reach as they required the speaker and audience to be physically present with each other. The reach of political discussion increased due to the printing press, but the static nature of printed material meant it was difficult to communicate with a specific audience without the message also being visible to others. Face-to-face communication was more secure, as the messages were ephemeral, whereas printed messages and those conveyed via mass media (once recording devices become widespread) were insecure as anyone could access, and potentially challenge, them. The general characteristics of these forms of public political discussion are listed in the following table.
 
-Medium |                           Direction   |    Reach                    Range |                  Permanence  |       Targeting
+Medium |                           Direction   |    Reach |                   Range |                  Permanence  |       Targeting
 --------                           -----------      -------                  -------                  ------------        -----------
 Face-to-face |                     Bidirectional |  Physical proximity |     Local |                  Ephemeral |         Narrowcast
 Printing |                          Bidirectional |   National/International | National/International | Static |            Broadcast
