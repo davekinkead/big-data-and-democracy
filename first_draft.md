@@ -93,12 +93,12 @@ CMC offered the possibility of returning to the bidirectional (many-to-many) pol
 
 As our quick overview of the different forms of political communication through the history of democracy suggests, the media available to convey messages affects the size and distribution of the possible audience. In the *agora*, speakers could tailor their messages to specific individuals or audiences, but these messages had a limited reach as they required the speaker and audience to be physically present with each other. The reach of political discussion increased due to the printing press, but the static nature of printed material meant it was difficult to communicate with a specific audience without the message also being visible to others. Face-to-face communication was more secure, as the messages were ephemeral, whereas printed messages and those conveyed via mass media (once recording devices become widespread) were insecure as anyone could access, and potentially challenge, them. The general characteristics of these forms of public political discussion are listed in the following table.
 
-Medium                             Direction        Reach                  Range                   Permanence         Targeting
---------                           -----------      -------                -------                 ------------       -----------
-Face-to-face                       Bidirectional    Physical proximity     Local                   Ephemeral          Narrowcast
-Printing                           Bidirectional    National/International National/International  Static             Broadcast
-Radio/Television                   Unidirectional   Global                 Global                  Ephemeral/Static   Broadcast
-Computer-Medicated Communication   Bidirectional    Global                 Global                  Static             Broadcast/Narrowcast
+Medium |                           Direction   |    Reach                    Range |                  Permanence  |       Targeting
+--------                           -----------      -------                  -------                  ------------        -----------
+Face-to-face |                     Bidirectional |  Physical proximity |     Local |                  Ephemeral |         Narrowcast
+Printing                           Bidirectional    National/International | National/International | Static |            Broadcast
+Radio/Television                   Unidirectional   Global                   Global |                 Ephemeral/Static |  Broadcast
+Computer-Medicated Communication   Bidirectional    Global                   Global |                 Static |            Broadcast/Narrowcast
 
 With the exception of unrecorded radio and television, static messages tend to have a greater reach and range than ephemeral ones. There is a trade-off between reaching a large and geographically disperse audience and limiting that message to a selected group. It becomes more difficult to *target* a specific group within the audience with a broadcast political message in a static form, as static messages are more difficult to restrict to a limited group when they have to be sent across a communication network (such as printers, messengers, and postal services). Static messages have a greater accessibility to others than ephemeral ones. As a result, the greater possibility of having a critical audience and the reputational risks of engaging in sophistry encourage speakers to be reasonable in their arguments and provide justifications for their claims.
 
