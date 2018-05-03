@@ -1,6 +1,12 @@
 resources
 
+- http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/89/2017/06/Casestudies-ExecutiveSummary.pdf [1]
 - http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2018/02/Polarization-Partisanship-JunkNews.pdf
+- http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/89/2015/08/COMPROP-2015-1.pdf
+- http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/89/2017/06/Social-Media-and-News-Sources-during-the-2017-UK-General-Election.pdf
+- http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/89/2017/09/Polarizing-Content-and-Swing-States.pdf
+- https://arxiv.org/ftp/arxiv/papers/1802/1802.03572.pdf
+- https://socialidentitylab.files.wordpress.com/2015/07/smearing-the-opposition-2010.pdf [2]
 - http://www.michalkosinski.com/home/publications
 - https://scholar.google.com/citations?hl=en&user=ol5ahj4AAAAJ&view_op=list_works&sortby=pubdate
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4347987/
@@ -13,3 +19,8 @@ resources
 - http://www.dtic.mil/dtic/tr/fulltext/u2/a445151.pdf
 - http://gip.uniovi.es/docume/psyop01.pdf
 - https://sclgroup.cc/projects/sord/
+- https://blog.twitter.com/official/en_us/topics/company/2018/2016-election-update.html
+
+
+> [1] Computational propaganda is one of the most powerful new tools against democracy. 
+> [2]  these findings suggest that, at both implicit and explicit cognitive levels, social category differences and political allegiance contribute to acceptance of smears against political candidates.
