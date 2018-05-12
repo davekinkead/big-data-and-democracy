@@ -61,6 +61,7 @@ Thesis: The nature of communication networks provided democracy with epistemic r
   
   - undermining confidence in the legitimacy of democratic outcomes
 
+
 ## Act 2
 
 4. The nature of communication networks keep democracy epistemically robust 
@@ -75,13 +76,25 @@ Thesis: The nature of communication networks provided democracy with epistemic r
     - ?? how is democracy corrupted here ?? plato?? 
 
   - Federalists (newspaper, asymmetric favouring active participants, regional demos)
-    - increase range, increased cost, decreased 
+    - increase range, increased cost, decreased discrimination
+    - ?? role of anonymity in federalist papers
     
   - Mad Men (mass media, tv, huge asymmetry to active, very broad demos)
+    - increase range, increased cost, decreased discrimination further
+    - responses: broadcast licenses, FCC fairness doctrine, media ownership laws
+
 
 ## Act 3
 
-5. Big data and social media decouple the traditional communications trade off  
+5. Big data and social media decouple the traditional communications trade off
+
+  - big data permits generation of psychographic models to exploit cognative biases (erodes voter competence)
+
+  -  
+
+  - cost free sophistry
+
+
 
 6. Aftermath:
 
