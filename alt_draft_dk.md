@@ -11,23 +11,76 @@ bibliography: big_data_and_democracy.bib
 
 ## Democracy and Demagoguery 
 
+1. Democracy is valuable but imperfect
+
 Democracy is the worst form of government, except for all the others we've tried from time to time (@churchill).  Like every political trope, this one resonates widely because it captures an essential element of truth - democracy, depsite its flaws, remains our most valuable political institution. 
 
-People fight to realise and defend it with their lives.....add flourish....
+People fight to realise and defend it with their lives .....add flourish....
+
+
+2. There are numerous accounts for why democracy is valuable including fairness, justice, equality, knowledge
 
 Why it is so valuable and where exactly this value stems from motivates a considerable deal of work within political theory.  Sometimes, this value is said to come from the egalitarian nature of democratic rule (cite).  Othertimes, democracy is deemed valuable because of its correspondence with liberal ideals (cite), or ....
 
-One popular theme in political theory, however, is that democracy has _epistemic_ value.  Under this account, one source of democracy's value, and of the legitimacy of democratic governments, is that democratic processes produce correct, knowledgeble, or at least informed answers to collective questions.  These epsitemic accounts can be quite diverse in nature, ranging from merely aggregative accounts like Condorcet's Jury Theorem, to the transformative accounts of deliberative democacy.  And whilst their specifics may vary considerably, their underlying claim remains similar - the outcomes of democratic processes are more likely to be correct than other collective or singular processes.
+
+3. One important source of value is epistemic (see rousseau, mill, cohen, habermas, CJT)
+
+One popular theme in political theory, however, is that democracy has _epistemic_ value.  Under this account, one source of democracy's value, and of the legitimacy of democratic governments, is that democratic processes produce correct, knowledgeble, or at least informed answers to collective questions.  
+
+These epsitemic accounts can be quite diverse in nature, ranging from merely aggregative accounts like Condorcet's Jury Theorem, to the transformative accounts of deliberative democacy.  And whilst their specifics may vary considerably, their underlying claim remains similar - the outcomes of democratic processes are more likely to be correct than other collective or singular processes.
 
 One such account is Condorcet's Jury Theorem.  First articulated by the Marquis de Condorcet in 17XX (cite) the theorem is an early formalisation of what has become known as the wisdom of the crowds (cite).  Since then, the theorem has been generalised over a variety of conditions (cite) and mathematically proves that under certain conditions (footnote), the likelihood a majority vote identifies the correct answer to a binary question approaches certainty as the number of voters increases.  In concrete terms, the theorem shows that even with just 1000 voters with an average individual chance of being correct of 51%, the majority vote will have a 99.9% chance of being correct.
 
-Deliberative Democracy
 
-All these accounts rely on political communication but more specifically, _reasoned_ political communication.
+4. Epistemic justifications must overcome significant challenges (its foibles)
+
+One obviious challenge to all these epistemic accounts is that the constituitive elements of democratic procedures -- it's citizens -- are often deeply flawed.
+
+Moderns democratic states are highly complex social institutions and must make decisions pertaining to an overwhelming number of issues from international diplomacy and climate change to local traffic management and santitation services.  No single citizen can be reasonably expected to have sufficient knowledge concerning all these issues yet we expect them to make informed choices during elections and other ballot measures.  Survey on voter competence...
+
+Further compounding the issue of voter competence is the fact that humans can suffer from an astonishing range of cognative biases. List some ....
+
+Divergent values: all humans hold a range of diverse values (we are biased to our own point of view)
+
+
+5. Epistemic democracy overcomes these challenges (and can turn them into positives)
+
+Yet democratic procedures have demonstrated capacities to overcome these epistemic challenges.
 
 
 
-  - that value is constantly at risk
+    - highlight the importance of cognative diversity & explain the mechanism of how this works
+      - CJT
+      - hayek & free markets
+      - Wisdom of the crowds
+      - Scientific practice
+  - divergent view points are essential to the strengh of aggregative accounts
+  - bandwagon effect can be positive when the process is truth tracking
+
+6. Further complications arise when participants are not commited democrats (its saboteurs)
+
+  - self interest can lead to subversion of democracy for private ends
+    - see Habermas' "systemically distorted communication" in Knowledge and Human Interests
+
+  - Democracy can be corrupted by demogogy, sophistry, and indifference
+  
+  - sophistry expliots the psychological disconnect between what people do believe and what people should believe
+
+  - anonymity can be used to mask sophist intent
+  
+  - increasing voter turnout amongst protagnonistic voters
+  
+  - suppressing voter turnout amongst antagonistic voters
+  
+  - shifting voter preference amongst undecided voters
+  
+  - undermining confidence in the legitimacy of democratic outcomes
+
+
+
+
+
+
 
 ## The Network and the Demos
 

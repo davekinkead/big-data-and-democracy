@@ -14,37 +14,28 @@ Thesis: The nature of communication networks provided democracy with epistemic r
 
 1. Democracy is valuable but imperfect
 
-  - churchill's trope
-  
-  - why is it valuable? - fairness, justice, equality, knowledge
-  
-  - epistemic justifications
-  
-  - condorcet's jury theorm
-    - quick review of lit
-    - relies on 1) voter independence & 2) voter competence
+2. There are numerous accounts for why democracy is valuable including fairness, justice, equality, knowledge
 
-  - deliberative accounts
-    - rousseau, mill, cohen, habermas
-    - relies on ??? power distribution, common goal / commitment to reason, diverse views
+3. One important source of value is epistemic (see rousseau, mill, cohen, habermas, CJT)
 
-2. Epistemic justifications must overcome significant challenges (its foibles)
+4. Epistemic justifications must overcome significant challenges (its foibles)
 
-  - the challenge of epistemic democracy is generate superior answers despite:
+    - knowledge deficiencies: voters lack the necessary knowledge & expertise to make informed judgements accross a wide range of issues
 
-    1. knowledge deficiencies: voters lack the necessary knowledge & expertise to make informed judgements accross a wide range of issues
+    - cognative biases: all humans suffer from faulty reasoning to some degree
 
-    2. cognative biases: all humans suffer from faulty reasoning to some degree
+    - divergent values: all humans hold a range of diverse values (we are biased to our own point of view)
 
-    3. divergent values: all humans hold a range of diverse values (we are biased to our own point of view)
+5. Epistemic democracy overcomes these challenges (and can turn them into positives)
 
-  - despite these challenges, epistemic democracy does overcome them and in the case of 3 and sometimes 2, turns them into positives
-
+    - highlight the importance of cognative diversity & explain the mechanism of how this works
+      - CJT
+      - Wisdom of the crowds
+      - Scientific practice
   - divergent view points are essential to the strengh of aggregative accounts
-  
   - bandwagon effect can be positive when the process is truth tracking
 
-3. Further complications arise when participants are not commited democrats (its saboteurs)
+6. Further complications arise when participants are not commited democrats (its saboteurs)
 
   - self interest can lead to subversion of democracy for private ends
     - see Habermas' "systemically distorted communication" in Knowledge and Human Interests
@@ -52,6 +43,8 @@ Thesis: The nature of communication networks provided democracy with epistemic r
   - Democracy can be corrupted by demogogy, sophistry, and indifference
   
   - sophistry expliots the psychological disconnect between what people do believe and what people should believe
+
+  - anonymity can be used to mask sophist intent
   
   - increasing voter turnout amongst protagnonistic voters
   
@@ -69,11 +62,13 @@ Thesis: The nature of communication networks provided democracy with epistemic r
   - Habermas' democratic institutions as communication networks connecting private individuals (citizens) with collective identities (citizenship)
     - the public sphere is only public if we all participate (as consumers or producers)
 
-  - A technological feature of traditional communication networks is the trade off between the reach of a message (geographically, audience) and content discrimination
+  - A technological feature of traditional communication networks is the couipling of the reach of a message (geographically, audience), cost, and content discrimination
 
   - Athenians (agora, symmetric active & passive participation, local demos)
     - choice between 1-1 private comms or public comms
     - ?? how is democracy corrupted here ?? plato?? 
+    - large scale sophistry was technoligically difficult
+      - low cost comms but limited reach
 
   - Federalists (newspaper, asymmetric favouring active participants, regional demos)
     - increase range, increased cost, decreased discrimination
@@ -88,13 +83,16 @@ Thesis: The nature of communication networks provided democracy with epistemic r
 
 5. Big data and social media decouple the traditional communications trade off
 
+  - early utopian hopes of a positive decoupling of reach from cost
+
+  - emergency of walled gardens & network effects decoupled reach and discrimination instead
+
+  - caputre of public forums by private mediums
+    - challenges to regulation
+    - cost free sophistry
+
   - big data permits generation of psychographic models to exploit cognative biases (erodes voter competence)
-
-  -  
-
-  - cost free sophistry
-
-
+    - sophistry is more effective
 
 6. Aftermath:
 
