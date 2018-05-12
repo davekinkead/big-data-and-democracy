@@ -9,7 +9,48 @@ status: outline
 bibliography: big_data_and_democracy.bib
 ---
 
-## Democracy and Demagoguery 
+## Democracy and Demagoguery
+
+(In which we highlight the epistemic risk to democracy)
+
+Plato is infamous for his disdain of democracy.  Like being ruled by jury of children, democracy suffocates reason by suffocating the voice of wisdom in a cloud of ignorance.  And like a ship at sea, the state needs specialist knowledge and skill - the keen eye of the navigator and the calm hand of an experienced captain - to steer it through troubled waters.
+
+Decisions made by an unskilled and uniformed _demos_ will always be inferior to those of philosopher-monarchs.  Policy will be determined by base desire rather than reason.  A state ruled by the people will inevitably succumb to the siren's song of a persuasive orator whose lust for power and manipulation of the masses can only result in tyranny.
+
+To rule well, one must have expertise, knowledge, and wisdom. It is obvious then that the decisions of an _episitocracy_ should be superior to the decisions of a _democracy_.
+
+2000 years later, the polymath Sir Francis Galton harboured similar thoughts about decision making.  Until that is, he calculated the results of 787 bets on the estimated weight of an ox at a country fair and discovered that the median result of the _vox populi_ was within 0.8% of the actual weight (@galton1907).
+
+This result highlights the intriguing epistemic value of collective decision making involving disparate actors.  It's a theme found in economics (@hayek1945), science (@kitcher1990), and of course, democracy.
+
+  - rousseau
+  - mill
+  - dewey
+  - cohen & estlund
+  - cjt
+
+The epistemic value of democratic decision processes is all the more surprising given limitations and differences of the individuals themselves.  Plato's premise was correct -- the average voter is ignorant and uninformed.
+
+
+
+Compounding this further is the inherently flawed nature of human reasoning.  Much of our reasoning and judgment processes are based on simple heuristics that occasionally manifest as cognitive biases.   We all suffer from a range cognitive biases that transcend age, culture, and education level (@cite).  We frequently engage in motivated reasoning ....
+
+
+
+Even if all citizens were fully rational and completely informed, we would still suffer from a _demos_ that holds a wide range of values and disparate views on what the 'best' choice might be.
+
+
+
+
+Whenever people of diverse cognitive ability reason collectively in a setting that rewards truth tracking, the collective judgment will be, probabilistically, superior to the judgment of any individual.
+
+---
+
+
+
+
+
+
 
 1. Democracy is valuable but imperfect
 
@@ -84,6 +125,7 @@ Yet democratic procedures have demonstrated capacities to overcome these epistem
 
 ## The Network and the Demos
 
+(In which we show how communication networks make democracy epistemically robust)
 
 Despite the ever present risk to democracy, the communication network structures that make democratic discourse possible have also made democracies epistemically robust.
 
@@ -142,6 +184,6 @@ This brief survey of communication networks, from the face-face communication of
 
 ## Big Data and Democracy
 
-  - The internet has made democracy fragile
+(In which we show how the internet has made democracy fragile)
+
   - the net decouples reach and discrimination
-  - we can now 
