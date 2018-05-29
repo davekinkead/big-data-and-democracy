@@ -35,6 +35,9 @@ The epistemic value of democratic decision processes is all the more surprising 
 
 Compounding this further is the inherently flawed nature of human reasoning.  Much of our reasoning and judgment processes are based on simple heuristics that occasionally manifest as cognitive biases.   We all suffer from a range cognitive biases that transcend age, culture, and education level (@cite).  We frequently engage in motivated reasoning ....
 
+  - anchoring & framing
+  - representational heuristic
+  - availability heuristic
 
 
 Even if all citizens were fully rational and completely informed, we would still suffer from a _demos_ that holds a wide range of values and disparate views on what the 'best' choice might be.
@@ -43,6 +46,7 @@ Even if all citizens were fully rational and completely informed, we would still
 
 
 Whenever people of diverse cognitive ability reason collectively in a setting that rewards truth tracking, the collective judgment will be, probabilistically, superior to the judgment of any individual.
+
 
 ---
 
