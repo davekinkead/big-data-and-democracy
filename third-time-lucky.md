@@ -12,9 +12,26 @@ Thesis: The nature of communication networks provided democracy with epistemic r
 
 ## Act I - Democracy and Demagoguery
 
-- Collective decision making has a surprisingly powerful epistemic value.
+1. Collective decision making has a surprisingly powerful epistemic value.
 
-- Democracy can be viewed as a type of collective decision making
+Plato is infamous for his disdain of democracy.  Like being ruled by a jury of children, democracy erodes reason by suffocating the voice of wisdom in a cloud of ignorance.  Like a ship at sea, the state needs specialist knowledge and skill - the keen eye of the navigator and the calm hand of an experienced captain - to steer it through troubled waters.
+
+Decisions made by an unskilled and uniformed _demos_ will always be inferior to those of philosopher-monarchs.  Democratic policy will be determined by base desire rather than reason.  A state ruled by the people will inevitably succumb to the siren's song of a persuasive orator whose lust for power and manipulation of the masses can only result in tyranny.
+
+To rule well, one must have expertise, knowledge, and wisdom. It is obvious then that the decisions of an _episitocracy_ should be superior to the decisions of a _democracy_.
+
+2000 years later, the polymath Sir Francis Galton harboured similar thoughts about decision making.  Until that is, he calculated the results of 787 bets on the estimated weight of an ox at a country fair and discovered that the median result of the _vox populi_ was within 0.8% of the actual weight (@galton1907).
+
+This result highlights the intriguing epistemic value of collective decision making involving disparate actors - that whenever people of diverse cognitive ability reason collectively in a setting that rewards truth tracking, the collective judgment will be, probabilistically at least, superior to the judgment of any one individual.
+
+The superior epistemic value of collective reasoning is a theme found across a variety of disciplines.  In economics, @hayek1945 championed the superiority of free-markets over centrally planned economies where free individual actors informed by price signals can better allocate resources than a central committee, despite no one actor having a comprehensive understanding of the economy.  
+
+In science, @kitcher1990 demonstrated how individual cognitive diversity improves collective knowledge when we don't know the truth ahead of time.  Sometimes dubbed the _wisdom of the crowds_ (@cite), these approaches to collective decision making have recently manifested as prediction markets for intelligence analysis (@cia) and data science out sourcing (@kaggle)
+
+2. Democracy can be viewed as a type of collective decision making
+
+
+
 
 - Democracy's epistemic value is surprising given the cognitive foibles of the individuals involved
 
