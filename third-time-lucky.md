@@ -10,9 +10,9 @@ status: outline
 
 Thesis: The nature of communication networks provided democracy with epistemic robustness.  Big data and social media are now eroding this robustness.
 
-## Act I - Democracy and Demagoguery
+# Act I - Democracy and Demagoguery
 
-1. Collective decision making has a surprisingly powerful epistemic value.
+### Collective decision making has a surprisingly powerful epistemic value.
 
 Plato is infamous for his disdain of democracy.  Like being ruled by a jury of children, democracy erodes reason by suffocating the voice of wisdom in a cloud of ignorance.  Like a ship at sea, the state needs specialist knowledge and skill - the keen eye of the navigator and the calm hand of an experienced captain - to steer it through troubled waters.
 
@@ -28,7 +28,7 @@ The superior epistemic value of collective reasoning is a theme found across a v
 
 In science, @kitcher1990 demonstrated how individual cognitive diversity improves collective knowledge when we don't know the truth ahead of time.  Sometimes dubbed the _wisdom of the crowds_ (@cite), these approaches to collective decision making have recently manifested as prediction markets for intelligence analysis (@cia) and data science out sourcing (@kaggle)
 
-2. Democracy can be viewed as a type of collective decision making
+### Democracy can be viewed as a type of collective decision making
 
 Democracy, of course, is no stranger to this epistemic theme.  Whilst Plato may have preferred epistocracy to democracy, enlightenment scholars were embracing democracy's epistemic power.  Rousseau thought that individuals stating their opinion on a matter by voting would elicit the general will of the people, a general opinion that would be superior than one's own (@rousseau1762). 
 
@@ -36,7 +36,7 @@ Mill "QUOTE" as did Dewey "QUOTE" ... @dk
 
 These _epistemic_ justifications of democracy have seen a resurgence in contemporary political theory in a range of accounts such as public reason (@rawls), deliberative democracy (@habermas, @goodin2017), and procedural accounts (@list, @estlund).  Despite their diversity in _how_ they justify democratic legitimacy, epistemic accounts are united in their claim that democratic processes are better, on average at least, at tracking the truth on particular matters than any one individual is. 
 
-3. Democracy's epistemic value is surprising given the cognitive foibles of the individuals involved
+### Democracy's epistemic value is surprising given the cognitive foibles of the individuals involved
 
 Plato's skepticism of democracy's epistemic value was justified however, when one considers the cognitive capacities and skills of its constituents. ....
 
@@ -44,7 +44,7 @@ Plato's skepticism of democracy's epistemic value was justified however, when on
   - cognitive flaws of human reasoning
   - diverse values of liberal societies
 
-4. Democratic processes overcome these foibles to produce superior epistemic value.
+### Democratic processes overcome these foibles to produce superior epistemic value.
 
 Yet democratic decision processes, whether merely aggregative like voting, or transformative like deliberation, somehow manage to overcome these foibles of individual cognition and values, to produce collective epistemic virtue that is superior or any one individual.
 
@@ -58,7 +58,7 @@ Underpinning the superiority of collective over individual decision making in ag
   - social cognition overcomes many individual biases (myside myopia) 
   - public reason liberalism offers one solution to diverse values
 
-5. This presupposes a commitment to the truth by voters. Bad actors can still subvert democracy.
+### This presupposes a commitment to the truth by voters. Bad actors can still subvert democracy.
 
   - self interest can lead to subversion of democracy for private ends
     - see Habermas' "systemically distorted communication" in Knowledge and Human Interests
@@ -71,7 +71,7 @@ Underpinning the superiority of collective over individual decision making in ag
     - example sophistry
     - example apathy
 
-6. Bad actors need not change peoples from antagonists to protagonists
+### Bad actors need not change peoples from antagonists to protagonists
 
 It should be made clear here that demagogues and sophists don't need to change the voting patterns of large swaths of the citizenry in order to subvert the epistemic value of democracy.  Small shifts at the margins are often sufficient.  Trump's 2016 win for example, was decided by fewer than 100,000 votes across three key states of Michigan, Pennsylvania, and Wisconsin (@fec2016).
 
@@ -81,22 +81,24 @@ Neither do they need to radically shift the beliefs of the citizenry from one si
   - both foreign powers and oligarchs?
 
 
-## Act II - The Network & The Demos
+# Act II - The Network & The Demos
 
-- The network defines the demos. Topologies bound political communities.
+### The network defines the demos. Topologies bound political communities.
 
 
-- to be a _demos_, the people need a shared conception of identity
+### to be a _demos_, the people need a shared conception of identity
+
   - shared rights and duties
 
 
-- a shared identity requires a way to communicate and share information
+### a shared identity requires a way to communicate and share information
+ 
   - how do you share an identity? iteration, communication
   - what is an identity - who you are and who you are not, a social construct
 
-- Habermas characterises democratic institutions as mediated communication networks connecting private individuals (citizens) with their collective identities (citizenship) (@cite).
+  - Habermas characterises democratic institutions as mediated communication networks connecting private individuals (citizens) with their collective identities (citizenship) (@cite).
 
-*- we define a political network as a communication network that facilitates communication between individuals who shared some form of common identity*
+### we define a political network as a communication network that facilitates communication between individuals who shared some form of common identity
 
 We define a political network as a communication network between the individuals who share a common political identity.  The classical model of communication has four components: the communication source, the message communicated, the medium or channel used, and the receiver of the communication [@lilleber_key_2006, p. 17].  The nodes in a communication network are the sources and receivers of messages sent across the medium connecting them.  The medium may be speech, text printed in a book or pamphlet, sound, images, and video transmitted by mass media.  The medium affects how quickly a message is conveyed and to how many people can receive it.  A whispered conversation has a narrow and targeted audience, with the source and receiver speaking to each other face-to-face.  A television broadcast potentially has an audience of millions.  As this example suggests, different communication media have different levels of accessibility to citizens: anyone capable of hearing and speech can engage in a whispered discussion with another, but a television broadcast requires airtime on a television network.  The cost of using the medium to communicate with the desired audience affects how accessible it is to each citizen.
 
@@ -111,24 +113,24 @@ The nodes may differ in how many other nodes it is committed with (i.e., with wh
 What demarcates one *demos* from another are the means of communication connecting the citizens of those *demoi*, allowing them to debate and persuade each other on the proper conduct of government and on issues of common interest. This is a form of the public sphere identified by Habermas [@benkler_wealth_2006, p. 177].
 
 
-- political networks are public networks. if it isnt connecting citizens, then it isn't political.  public sphere, shared understanding????
+### political networks are public networks. if it isnt connecting citizens, then it isn't political.  public sphere, shared understanding????
 
-- a democratic network is one that has a dense peer to peer topology. cf autocratic networks that have certain nodes with communicative privilege.
+### a democratic network is one that has a dense peer to peer topology. cf autocratic networks that have certain nodes with communicative privilege.
 
 The topology of the political network represents the form of government of the *demos*.
 
-- uni vs bidirection
+### uni vs bidirection
 
 
 
-- The network technology bounds the demos
+### The network technology bounds the demos
   - city-states, colonies, nations, global
   - democracy's demos can only expand to the extent of democratic network reach
   - cf autocratic empires that had reach greater than democracies
 
-- The technological features of the communication networks that democracies use provides democracy with a degree of epistemic protection against bad actors.
+### The technological features of the communication networks that democracies use provides democracy with a degree of epistemic protection against bad actors.
 
-- There is an inherent trade off between how narrowly the content of a message can be targeted at a specific group and how far that message can reach across a network.
+### There is an inherent trade off between how narrowly the content of a message can be targeted at a specific group and how far that message can reach across a network.
 
 *- narrow cast in Athens*
 
@@ -156,7 +158,8 @@ Radio and television allowed messages to be broadcast across a geographical rang
 
 Mass media also marks the point where public political discussion in democracies became more *unidirectional*: the audience cannot respond with their own messages in the same medium.  Unidirectional communication gives the speaker power, as her audience do not have the same privilege to present their own message to both the source and the rest of the audience in the same way.  Similarly, the operators of mass media broadcast networks have power over their audience as they decide which speakers appear on their broadcasts and whether they are presented favourably or otherwise.  
 
-- each layer faces same trade off
+### each layer faces same trade off
+
   - broadcast cost increases
   - broadcast reach increase
   - msg discrimination decreases (more generic)
@@ -173,7 +176,7 @@ Mass media also marks the point where public political discussion in democracies
 
 This brief survey of communication networks, from the face-face communication of the Athenian *agora* to the television broadcasts of the 20th century, suggests an inverse relationship between the *reach* and *discrimination* of political messages.  A speaker in the *agora* can choose her audience by speaking to a select few in secret or to the entire assembly. However, who she may speak to is limited by the need to be face-to-face with her audience.  To reach a wider audience, she must commit her messages to a static form in writing.  In doing so, she loses some ability to choose who receives her message: such messages become less secure. Her audience can also directly respond to her messages with messages of their own, so the audience can be active participants in political debate. As new technologies emerged, as the printing press, radio, and television, the potential reach of political messages increased.  The size and geographical range of the political audience increased, at the cost of increasing the asymmetry between the speaker and the audience.  The static form of printed and broadcast messages also made it more difficult to ensure that political messages only reached a specific section within the audience.  Speakers were less able to be discriminate in their audience.  It also became more difficult for the audience to be active in political debate with speakers, as they increasingly received political messages in unidirectional forms.  Mass media communication networks allowed for political messages to reach national and international audiences, at the cost of limiting the speaker's ability to securely convey different messages to different groups.  It is this trade-off between reach and discrimination that is challenged by the Internet, and especially by the use of big data analytics to identify specific groups within the citizenry.
 
-- the internet changes everything! (broadcast, low-cost, bi-direction, decentralised)
+### the internet changes everything! (broadcast, low-cost, bi-direction, decentralised)
   - reach increases but is peer-to-peer
   - broadcast but at low cost
   - bi directional
@@ -184,18 +187,19 @@ CMC offered the possibility of returning to the bidirectional (many-to-many) pol
 
 Political speakers wishing to make unreasonable claims (such as those which reject democratic norms of political equality, for example) must therefore conceal them from critical audiences.  Targeted messaging offers a possibility for achieving this through either concealing unreasonable claims within a seemingly reasonable argument by using terms that are interpreted differently by different groups (i.e., 'dog whistling'); and by communicating directly with a specific, sympathetic audience who are more likely to accept the speaker's claims.  These methods create the possibility of widely-distributed narrowcast messaging.  Such messages are still static, however, and so may leak outside the targeted group and become visible to the rest of the audience. 
 
-- the institution is the topology
-- anonymity
-- disclosure laws
+### the institution is the topology
+### anonymity
+### disclosure laws
 
-- "the platform provides communicative privilege"
+### "the platform provides communicative privilege"
 
 
-## Act III - Big Data & Democracy
+# Act III - Big Data & Democracy
 
-- closed social networks (facebook) vs open social networks (twitter) 
+### closed social networks (facebook) vs open social networks (twitter) 
 
-- social media leads to echo chambers
+### social media leads to echo chambers
+
   - our information sources are not representative of the broader community
   - loss of cognitive diversity
     - because of the algorithm
@@ -207,22 +211,26 @@ Political speakers wishing to make unreasonable claims (such as those which reje
     - base rate fallacy
   - privatisation of public space
     - habermas - we are fracturing the demos
-- social media faciliates unreflective participation
+
+### social media faciliates unreflective participation
+
   - contrast this with TV (passive), SM (active) 
   - supposition: active participation strengthen's belief (@cite)
   - emotive ideas propogate faster (@cite)
-- anonymtity allows sock puppets to appropriate the credibility of the pecieved source
+
+### anonymtity allows sock puppets to appropriate the credibility of the pecieved source
+
   - myside bias - info sourced from friends more likely to be accepted
   (cf federalists who used anonymitity to have message stand on its own feet)
 
-- big data enables a deeper understanding of individual demo-psychographics
+### big data enables a deeper understanding of individual demo-psychographics
   - we can better exploit their biases
     - target smaller groups or even individuals
       - ML discovers new feature & categories
     - tracking enables more effective measurment of message response
       - we can learn what messages work and which don't (cf focus groups)
 
-- big data + social media is bad for democracy
+### big data + social media is bad for democracy
   - narrow targeting based on public features
     - targeted ads multiply socially shared info
     - anonymity circumvents traditional political disclosure laws
