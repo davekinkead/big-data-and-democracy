@@ -38,7 +38,7 @@ These _epistemic_ justifications of democracy have seen a resurgence in contempo
 
 3. Democracy's epistemic value is surprising given the cognitive foibles of the individuals involved
 
-Plato's skepticism of democracy's epistemic value was justified however, when one considers the cognitive capacities and skills of its constituents.
+Plato's skepticism of democracy's epistemic value was justified however, when one considers the cognitive capacities and skills of its constituents. ....
 
   - the problem of voter ignorance
   - cognitive flaws of human reasoning
@@ -53,7 +53,6 @@ In a purely aggregative account of democracy such as Condorcet's Jury Theorem, v
 [^cjt] The Jury Theorem makes a number of assumptions about voter competence, voter independence, and the objective correctness of some binary choice.  Since Condorcet first published his theorem in XXXX, many of these assumptions have been generalised (see ....)
 
 Underpinning the superiority of collective over individual decision making in aggregative accounts like the Jury Theorem is the nature of randomness and imperfection.  As we have seen, human cognition has many biases that lead to faulty reasoning.  While often consistent within individuals, across many individuals, these errors have the appearance of random noise.  We can conceptualise this as an individual's propensity to be correct plus or minus some random error.  When the predictions of many individuals are aggregated, the random errors cancel each other out ...
-
 
   - robust public debate identifies which choices are superior and why
   - social cognition overcomes many individual biases (myside myopia) 
@@ -74,14 +73,12 @@ Underpinning the superiority of collective over individual decision making in ag
 
 6. Bad actors need not change peoples from antagonists to protagonists
 
-It should be made clear here that demagogues and sophists don't need to radically shift the beliefs of citizens from one side of an issue to the other in order to subvert the epistemic value of democracy....
+It should be made clear here that demagogues and sophists don't need to change the voting patterns of large swaths of the citizenry in order to subvert the epistemic value of democracy.  Small shifts at the margins are often sufficient.  Trump's 2016 win for example, was decided by fewer than 100,000 votes across three key states of Michigan, Pennsylvania, and Wisconsin (@fec2016).
 
-
-  - increasing voter turnout amongst protagonistic voters
-  - suppressing voter turnout amongst antagonistic voters
-  - shifting voter preference amongst undecided voters
-  - undermining confidence in the legitimacy of democratic outcomes
-    - both foreign powers and oligarchs
+Neither do they need to radically shift the beliefs of the citizenry from one side of an issue to the other.  Empiric research suggests that it is very difficult to change voting behaviour of citizens who already identify with a party or issue (@cite).  Despite our cognitive flaws, and often because of them, it is difficult to alter entrenched beliefs (@cite belief preservation).  Instead, demagogues and sophists can undermine epistemic democracy in four key ways: increasing voter turnout amongst protagonistic voters; suppressing voter turnout amongst antagonistic voters; shifting voter preference amongst undecided voters; and undermining confidence in the legitimacy of democratic outcomes
+    
+  - examples?
+  - both foreign powers and oligarchs?
 
 
 ## Act II - The Network & The Demos
