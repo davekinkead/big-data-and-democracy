@@ -83,26 +83,32 @@ Neither do they need to radically shift the beliefs of the citizenry from one si
 
 # Act II - The Network & The Demos
 
-### The network defines the demos. Topologies bound political communities.
-
-
 ### to be a _demos_, the people need a shared conception of identity
+
+A stable democracy requires a shared identity and culture.  Its citizens need to identify as one _demos_ lest it fracture and balkanise. 
 
   - shared rights and duties
 
-
 ### a shared identity requires a way to communicate and share information
  
+This in turn necessitates some common communication network for political messages to be transmitted, understood, and evaluated by citizens. 
+
   - how do you share an identity? iteration, communication
   - what is an identity - who you are and who you are not, a social construct
 
   - Habermas characterises democratic institutions as mediated communication networks connecting private individuals (citizens) with their collective identities (citizenship) (@cite).
 
+### The network defines the demos. Topologies bound political communities.
+
+What demarcates one _demos_ from another then, is a function of the communication networks that connects the citizens of those _demoi_, allowing them to debate and persuade each other on the proper conduct of government.  
+
 ### we define a political network as a communication network that facilitates communication between individuals who shared some form of common identity
 
 We define a political network as the communication network between individuals who share a common political identity.  The set of nodes and connections between them represent a given *demos*.  The means of communications that exist between individuals belonging to the *demos* allows them to debate and persuade each other on the proper conduct of government and on issues of common interest.  This is a form of the public sphere identified by Habermas [@benkler_wealth_2006, p. 177].
 
-The classical model of communication has four components: the communication source, the message communicated, the medium or channel used, and the receiver of the communication [@lilleber_key_2006, p. 17].  The nodes in a communication network are the sources and receivers of messages sent across the medium connecting them.  The medium may be speech, text printed in a book or pamphlet, sound, images, and video transmitted by mass media.  The medium affects how quickly a message is conveyed and to how many people can receive it.  A whispered conversation has a narrow and targeted audience, with the source and receiver speaking to each other face-to-face.  A television broadcast potentially has an audience of millions.  As this example suggests, different communication media have different levels of accessibility to citizens: anyone capable of hearing and speech can engage in a whispered discussion with another, but a television broadcast requires airtime on a television network.  The cost of using the medium to communicate with the desired audience affects how accessible it is to each citizen.
+The classical model of communication has four components: the communication source, the message communicated, the medium or channel used, and the receiver of the communication [@lilleber_key_2006, p. 17].  The nodes in a communication network are the sources and receivers of messages sent across the medium connecting them.  The medium may be speech, text printed in a book or pamphlet, sound, images, and video transmitted by mass media. 
+
+The medium affects how quickly a message is conveyed and to how many people can receive it.  A whispered conversation has a narrow and targeted audience, with the source and receiver speaking to each other face-to-face.  A television broadcast potentially has an audience of millions.  As this example suggests, different communication media have different levels of accessibility to citizens: anyone capable of hearing and speech can engage in a whispered discussion with another, but a television broadcast requires airtime on a television network.  The cost of using the medium to communicate with the desired audience affects how accessible it is to each citizen.
 
 Each individual citizen in the *demos* is represented by a node in the political network.  The connections between the nodes represent a communication medium that allows those nodes to exchange messages.  These connections may be bidirectional if each node may communicate with the other in the same medium, or unidirectional if only one node may send a message to the other via that medium.  Unidirectional connections mean that the node receiving the message cannot respond with a similar message in the same context within the same communication medium.  Consider a speaker at a political rally: the crowd may respond with cheers or jeers, but the individuals in the crowd lack the privileges granted by standing on the podium and expressing their views to the audience.  The crowd cannot engage in an equal political discussion with the speaker in this context.  Unidirectional communication therefore grants the source *communicative privilege*, as her audience (as individuals) do not have the same opportunity to present their message to both the source and to the rest of the audience in the same way.
 
