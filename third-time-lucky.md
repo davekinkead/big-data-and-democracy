@@ -30,10 +30,13 @@ In science, @kitcher1990 demonstrated how individual cognitive diversity improve
 
 2. Democracy can be viewed as a type of collective decision making
 
+Democracy, of course, is no stranger to this epistemic theme.  Whilst Plato may have preferred epistocracy to democracy, enlightenment scholars were embracing democracy's epistemic power.  Rousseau thought that individuals stating their opinion on a matter by voting would elicit the general will of the people, a general opinion that would be superior than one's own (@rousseau1762). 
 
+Mill "QUOTE" as did Dewey "QUOTE" ... 
 
+These _epistemic_ justifications of democracy have seen a resurgence in contemporary political theory in a range of accounts such as public reason (@rawls), deliberative democracy (@habermas), and procedural accounts (@list, @estlund).  Despite their diversity in _how_ they justify democratic legitimacy, epistemic accounts are united in their claim that democratic processes are better, on average at least, at tracking the truth on particular matters than any one individual is. 
 
-- Democracy's epistemic value is surprising given the cognitive foibles of the individuals involved
+3. Democracy's epistemic value is surprising given the cognitive foibles of the individuals involved
 
   - the problem of voter ignorance
   - cognitive flaws of human reasoning
