@@ -32,24 +32,34 @@ In science, @kitcher1990 demonstrated how individual cognitive diversity improve
 
 Democracy, of course, is no stranger to this epistemic theme.  Whilst Plato may have preferred epistocracy to democracy, enlightenment scholars were embracing democracy's epistemic power.  Rousseau thought that individuals stating their opinion on a matter by voting would elicit the general will of the people, a general opinion that would be superior than one's own (@rousseau1762). 
 
-Mill "QUOTE" as did Dewey "QUOTE" ... 
+Mill "QUOTE" as did Dewey "QUOTE" ... @dk
 
-These _epistemic_ justifications of democracy have seen a resurgence in contemporary political theory in a range of accounts such as public reason (@rawls), deliberative democracy (@habermas), and procedural accounts (@list, @estlund).  Despite their diversity in _how_ they justify democratic legitimacy, epistemic accounts are united in their claim that democratic processes are better, on average at least, at tracking the truth on particular matters than any one individual is. 
+These _epistemic_ justifications of democracy have seen a resurgence in contemporary political theory in a range of accounts such as public reason (@rawls), deliberative democracy (@habermas, @goodin2017), and procedural accounts (@list, @estlund).  Despite their diversity in _how_ they justify democratic legitimacy, epistemic accounts are united in their claim that democratic processes are better, on average at least, at tracking the truth on particular matters than any one individual is. 
 
 3. Democracy's epistemic value is surprising given the cognitive foibles of the individuals involved
+
+Plato's skepticism of democracy's epistemic value was justified however, when one considers the cognitive capacities and skills of its constituents.
 
   - the problem of voter ignorance
   - cognitive flaws of human reasoning
   - diverse values of liberal societies
 
-- Democratic processes overcome these foibles to produce superior epistemic value.
+4. Democratic processes overcome these foibles to produce superior epistemic value.
 
-  - cjt only requires average voter competence of +50%
+Yet democratic decision processes, whether merely aggregative like voting, or transformative like deliberation, somehow manage to overcome these foibles of individual cognition and values, to produce collective epistemic virtue that is superior or any one individual.
+
+In a purely aggregative account of democracy such as Condorcet's Jury Theorem, voters need not interact beyond voting for majorities to deliver superior epistemic outcomes.  So long as voters on average have a better than even chance of being correct on some issue, the likelihood of the majority vote being correct approaches certainty as the number of voters increases [^cjt].  To give the theorem some concrete context, if the average competence of the electorate is just 51% (marginally better than a coin flip), then the majority vote of 101 voters has a 57% chance of being correct, and 10,001 voters have a 99.99% chance.
+
+[^cjt] The Jury Theorem makes a number of assumptions about voter competence, voter independence, and the objective correctness of some binary choice.  Since Condorcet first published his theorem in XXXX, many of these assumptions have been generalised (see ....)
+
+Underpinning the superiority of collective over individual decision making in aggregative accounts like the Jury Theorem is the nature of randomness and imperfection.  As we have seen, human cognition has many biases that lead to faulty reasoning.  While often consistent within individuals, across many individuals, these errors have the appearance of random noise.  We can conceptualise this as an individual's propensity to be correct plus or minus some random error.  When the predictions of many individuals are aggregated, the random errors cancel each other out ...
+
+
   - robust public debate identifies which choices are superior and why
   - social cognition overcomes many individual biases (myside myopia) 
   - public reason liberalism offers one solution to diverse values
 
-- This presupposes a commitment to the truth by voters. Bad actors can still subvert democracy.
+5. This presupposes a commitment to the truth by voters. Bad actors can still subvert democracy.
 
   - self interest can lead to subversion of democracy for private ends
     - see Habermas' "systemically distorted communication" in Knowledge and Human Interests
@@ -62,7 +72,10 @@ These _epistemic_ justifications of democracy have seen a resurgence in contempo
     - example sophistry
     - example apathy
 
-- Bad actors need not change peoples from antagonists to protagonists
+6. Bad actors need not change peoples from antagonists to protagonists
+
+It should be made clear here that demagogues and sophists don't need to radically shift the beliefs of citizens from one side of an issue to the other in order to subvert the epistemic value of democracy....
+
 
   - increasing voter turnout amongst protagonistic voters
   - suppressing voter turnout amongst antagonistic voters

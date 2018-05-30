@@ -20,7 +20,8 @@ Resources & Notes
 - http://gip.uniovi.es/docume/psyop01.pdf
 - https://sclgroup.cc/projects/sord/
 - https://blog.twitter.com/official/en_us/topics/company/2018/2016-election-update.html
-
+- https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol50no4/using-prediction-markets-to-enhance-us-intelligence-capabilities.html
+- https://www.kaggle.com/
 
 > [1] Computational propaganda is one of the most powerful new tools against democracy. 
 > [2]  these findings suggest that, at both implicit and explicit cognitive levels, social category differences and political allegiance contribute to acceptance of smears against political candidates.
