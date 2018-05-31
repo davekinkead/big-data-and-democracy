@@ -1,3 +1,22 @@
+ This is a form of the public sphere identified by Habermas [@benkler_wealth_2006, p. 177].
+
+
+
+The medium may be speech, text printed in a book or pamphlet, sound, images, and video transmitted by mass media. 
+
+
+
+The medium affects how quickly a message is conveyed and to how many people can receive it.  A whispered conversation has a narrow and targeted audience, with the source and receiver speaking to each other face-to-face.  A television broadcast potentially has an audience of millions.  As this example suggests, different communication media have different levels of accessibility to citizens: anyone capable of hearing and speech can engage in a whispered discussion with another, but a television broadcast requires airtime on a television network.  The cost of using the medium to communicate with the desired audience affects how accessible it is to each citizen.
+
+Each individual citizen in the _demos_ is represented by a node in the political network.  The connections between the nodes represent a communication medium that allows those nodes to exchange messages.  These connections may be bidirectional if each node may communicate with the other in the same medium, or unidirectional if only one node may send a message to the other via that medium.  Unidirectional connections mean that the node receiving the message cannot respond with a similar message in the same context within the same communication medium.  Consider a speaker at a political rally: the crowd may respond with cheers or jeers, but the individuals in the crowd lack the privileges granted by standing on the podium and expressing their views to the audience.  The crowd cannot engage in an equal political discussion with the speaker in this context.  Unidirectional communication therefore grants the source *communicative privilege*, as her audience (as individuals) do not have the same opportunity to present their message to both the source and to the rest of the audience in the same way.
+
+In contrast, bidirectional communication occurs when nodes can respond to the messages in the same communication medium.  Interpersonal communication is bidirectional, while the characteristics of different forms of technologically mediated communication determine whether it is unidirectional or bidirectional.  The form of technology used to communicate hence affects how political communication takes place and who is communicatively privileged over others in distributing their messages.  Different communication technologies allow for different connections to exist between nodes.  Individuals who are geographically distant from each other will lack a face-to-face connection, although a connection may exist via other communication media, such as letters, printed material, and mass media.  The possible connections across a variety of communication media also depend on the resources available to individuals.  Wealthy individuals are able to communicate with many more other citizens than poorer ones as they have access to a great range of communication media.  The wealthy are, quite literally, better connected than their less fortunate peers.
+
+*- narrow cast in Athens*
+
+Public life in ancient Athens is represented by the *agora* (marketplace) [@habermas_structural_1989, p. 3].  The face-to-face communication of the *agora* allows speakers to target different audiences.  You could shout and be heard by all (making it a public message), or you could whisper and be heard by one (making it private).  The audience may be active by directly engaging publicly or privately with speakers in debate, or passive by only listening to the speaker's messages. Face-to-face, interpersonal communications are *narrowcast* political messages, as they are restricted to a specific intended audience.
+
+---
 
 
 
