@@ -200,12 +200,12 @@ The reach of political messages via CMC is potentially global. Individuals could
 
 This brief survey of communication networks, from the face-face communication of the Athenian *agora* to the Internet, suggests an inverse relationship between the *reach* and *discrimination* of political messages.  A speaker in the *agora* can choose her audience by speaking quietly to a select few or loudly to the entire assembly. However, who she may speak to is limited by the need to be face-to-face with her audience.  As new technologies emerged, as the printing press, radio, and television, the potential reach of political messages increased.  The size and geographical range of the audience increases, at the cost of communication becoming more unidirectional.  The static form of printed and broadcast messages also made it more difficult to ensure that political messages only reached a specific section within the audience.  The general characteristics of these forms of public political discussion are listed in the following table.  It is this trade-off between reach and discrimination that is challenged by the combination of social media and big data analytics to identify and broadcast messages to specific groups within the audience. 
 
-|Medium                           | Direction      | Reach                  | Targeting  |
-|--------                         | -----------    | -------                | -----------|
-|Face-to-face                     | Bidirectional  | Physical proximity     | Narrowcast |
-|Printing                         | Bidirectional  | National/International | Broadcast  |
-|Broadcast Mass Media             | Unidirectional | Global                 | Broadcast  |
-|Computer-Medicated Communication | Bidirectional  | Global                 | Broadcast  |
+|Medium                           | Direction      | Reach                  | Cost    | Targeting  |
+|--------                         | -----------    | -------                | ------  | -----------|
+|Face-to-face                     | Bidirectional  | Physical proximity     | Minimal | Narrowcast |
+|Printing                         | Unidirectional | National/International | Low     | Broadcast  |
+|Broadcast Mass Media             | Unidirectional | Global                 | High    | Broadcast  |
+|Computer-Medicated Communication | Bidirectional  | Global                 | Minimal | Broadcast  |
 
 ### the institution is the topology
 ### anonymity
