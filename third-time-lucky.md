@@ -36,7 +36,7 @@ These _epistemic_ justifications of democracy have seen a resurgence in contempo
 
 ### Democracy's epistemic value is surprising given the cognitive foibles of the individuals involved
 
-Plato's skepticism of democracy's epistemic value was justified however, when one considers the cognitive capacities and skills of its constituents. ....
+Plato's scepticism of democracy's epistemic value was justified however, when one considers the cognitive capacities and skills of its constituents. ....
 
   - the problem of voter ignorance
   - cognitive flaws of human reasoning @dk after part 3
@@ -67,9 +67,9 @@ In transformative accounts, the public nature of political discourse identifies 
 
 
 
-Democracy may be corrupted by demagoguery, sophistry, and apathy.  Demagoguery and sophistry are two reasons for Plato's hostility to democracy.  In the *Sophist* (267b-c), Plato distinguishes between demagoguery (someone who "can maintain his insincerity in long speeches to a crowd") and *sophistry* ("us[ing] short speeches in private conversation to force the person talking with him to contradict himself").  Demagogues seek and maintain political power by exploiting prejudice and ignorance within the citizenry, and by portraying themselves as the only solution to the society's real or imagined problems.
+Democracy may be corrupted by demagoguery, sophistry, and apathy.  Demagoguery and sophistry are two reasons for Plato's hostility to democracy.  In the *Sophist* (267b-c), Plato distinguishes between demagogues (someone who "can maintain his insincerity in long speeches to a crowd") and sophists (those "us[ing] short speeches in private conversation to force the person talking with him to contradict himself").  Demagogues seek and maintain political power by exploiting prejudice and ignorance within the citizenry, and by portraying themselves as the only solution to the society's real or imagined problems.
 
-Sophistry is the use of argumentative and persuasive techniques to convince an audience of something even if it is inconsistent with the facts or the audience's own stated beliefs and commitments.  In the *Gorgias*, Plato's Socrates presses the claim against the orator Gorgias that a good orator can be more persuasive to those without expert knowledge of a subject than an expert (459b). As a result, skilled communicators can be persuasive without necessarily being knowledgeable about their subject. If the audience is not well educated about the subject under debate, they may be persuaded to accept a conclusion that does not depend on the truth of its statements or the logic of the arguments presented to convince its audience to support a political decision.
+Sophistry is the use of argumentative and persuasive techniques to convince an audience of something even if it is inconsistent with the facts or the audience's own stated beliefs and commitments.  In the *Gorgias*, Plato's Socrates presses the claim against the orator Gorgias that a good orator can be more persuasive to those without expert knowledge of a subject than an expert (459b). As a result, skilled communicators can be persuasive without necessarily being knowledgeable about their subject.  If the audience is not well educated about the subject under debate, they may be persuaded to accept a conclusion that does not depend on the truth of its statements or the logic of the arguments presented to convince its audience to support a political decision.
 
 The third corrupting factor, apathy, weakens democracy by discouraging interest and participation in politics.  As a result, those who vote or otherwise influence political decisions are less representative of the entire society.  The lack of interest in politics by sections of the community may be exploited by others to allow political inequalities to continue or expand at the expense of the apathetic.
 
@@ -161,13 +161,13 @@ While new technologies such as the printing press expanded the range of a politi
 
 Printed messages also allow for the source of the message to be disguised, either by releasing them anonymously or by attributing them to a pseudonym.  The use of pseudonyms or anonymity in publishing messages allows the messages to be tailored, as it allows an author to present different views under different names, to disguise their common source and without having to be consistent between them. ^[In the case of the Federalist Papers, no such deception was intended: the views presented by Madison, Hamilton, and Jay as 'Publius' did not conflict with their public support for the Constitution.]  Pseudonyms or anonymity in presenting a political message may be used for rhetorical purposes (such as the reference to the Roman Republic that 'Publius' signalled [@kramnick_federalist_1987, p. 72].) or to prevent the message's reception being influenced by any bias (positive or negative) that may result from it being attributed to a particular individual or group.
 
-While newspapers and pamphlets increased the reach of political messages, it also made political communication more unidirectional.  The readers of newspapers and political pamplhets are largely a passive audience, unless they themselves have their political messages printed as well.  While audience members could still respond in the same medium, it required finding a printer or newspaper willing to print their response.  Bidirectional communication started to become a privilege.  The range and distribution of newspapers also began to change as industrialisation increased the economies of scale of newspaper printing [@benkler_wealth_2006, p. 187].  Smaller, local newspapers found it more difficult to compete with cheaper, mass produced newspapers with larger geographical audiences.  Selling advertising space also became more important for funding the increasing costs of operating newspapers [@benkler_wealth_2006, p. 188].  This asymmetry between active speakers and large, passive, and geographically dispersed audiences, was further intensified by the development of radio and television in the 20th centry.
+While newspapers and pamphlets increased the reach of political messages, it also made political communication more unidirectional.  The readers of newspapers and political pamphlets are largely a passive audience, unless they themselves have their political messages printed as well.  While audience members could still respond in the same medium, it required finding a printer or newspaper willing to print their response.  Bidirectional communication started to become a privilege.  The range and distribution of newspapers also began to change as industrialisation increased the economies of scale of newspaper printing [@benkler_wealth_2006, p. 187].  Smaller, local newspapers found it more difficult to compete with cheaper, mass produced newspapers with larger geographical audiences.  Selling advertising space also became more important for funding the increasing costs of operating newspapers [@benkler_wealth_2006, p. 188].  This asymmetry between active speakers and large, passive, and geographically dispersed audiences, was further intensified by the development of radio and television in the 20th century.
 
 - contradiction here between uni & bi-directional earlier
 
 Radio and television allowed messages to be broadcast across a geographical range unmatched by messages conveyed via earlier technologies.  Radio and television allowed governments and heads of state to address their entire population instantly.  These messages are broadcast to the population, making them accessible to all with the technology necessary to receive them.  As a result, the message's audience is the entire population, rather than specific sections of it.  The unidirectional communication of these mass media networks from transmitters to passive receivers also makes them vulnerable to centralised control [@benkler_2006, p. 196].  The operators of mass media broadcast networks enjoy significant communicative privileges, as they decide what messages appear on their broadcasts and whether they are presented favourably or otherwise.
  
-The communicative privileges afforded to those who control mass media comes at the cost of the ability of communicating directly to a specific group without the rest of the audience receiving the same message.  Mass media messages are expensive to produce, so speakers have strong motivations to make their messages acceptable to as broad an audience as possible.  It becomes less cost effective to tailor political messages towards a specific group within the broader audience.  This accessibility of broadcast political messages imposes its own constraints on the kinds of messages that are sent.  Tailored messages that strongly resonate with specific groups may inspire greater resistance from other groups in the audience.  Political speakers who utilise mass media therefore must either accept that their message will only resonate with a specific group (and that their target audience is sufficently large to overcome the political backlash from other groups), or present messages that are interpreted differently by different groups, so that the target group hears a message that resonates strongly with them without antagonising the broader audience (i.e., 'dog whistling').
+The communicative privileges afforded to those who control mass media comes at the cost of the ability of communicating directly to a specific group without the rest of the audience receiving the same message.  Mass media messages are expensive to produce, so speakers have strong motivations to make their messages acceptable to as broad an audience as possible.  It becomes less cost effective to tailor political messages towards a specific group within the broader audience.  This accessibility of broadcast political messages imposes its own constraints on the kinds of messages that are sent.  Tailored messages that strongly resonate with specific groups may inspire greater resistance from other groups in the audience.  Political speakers who utilise mass media therefore must either accept that their message will only resonate with a specific group (and that their target audience is sufficiently large to overcome the political backlash from other groups), or present messages that are interpreted differently by different groups, so that the target group hears a message that resonates strongly with them without antagonising the broader audience (i.e., 'dog whistling').
 
 Despite these practical reasons for crafting messages that appeal to a broad audience, mass media will always be associated with the spread of propaganda. While propaganda has always existed in political communication, the combination of reach and the vividness of the sounds and imagery it can convey, made mass media an excellent platform for it.  To counter this, there are often laws and regulations in place that limit what can be said in political messages if the state is sincere in fostering public political discussion.  Attribution to a specific individual or political party is often required to ensure that speakers are accountable for their messages.  These laws and regulations are intended to prevent the abuse of the communicative privileges that mass media gives to those able to utilise it.  
 
@@ -198,12 +198,12 @@ The reach of political messages via CMC is potentially global. Individuals could
 
 This brief survey of communication networks, from the face-face communication of the Athenian *agora* to the Internet, suggests an inverse relationship between the *reach* and *discrimination* of political messages.  A speaker in the *agora* can choose her audience by speaking quietly to a select few or loudly to the entire assembly. However, who she may speak to is limited by the need to be face-to-face with her audience.  As new technologies emerged, as the printing press, radio, and television, the potential reach of political messages increased.  The size and geographical range of the audience increases, at the cost of communication becoming more unidirectional.  The static form of printed and broadcast messages also made it more difficult to ensure that political messages only reached a specific section within the audience.  The general characteristics of these forms of public political discussion are listed in the following table.  It is this trade-off between reach and discrimination that is challenged by the combination of social media and big data analytics to identify and broadcast messages to specific groups within the audience. 
 
-|Medium                           | Direction      | Reach                  | Targeting  |
-|--------                         | -----------    | -------                | -----------|
-|Face-to-face                     | Bidirectional  | Physical proximity     | Narrowcast |
-|Printing                         | Bidirectional  | National/International | Broadcast  |
-|Broadcast Mass Media             | Unidirectional | Global                 | Broadcast  |
-|Computer-Medicated Communication | Bidirectional  | Global                 | Broadcast  |
+|Medium                           | Direction      | Reach                  | Cost    | Targeting  |
+|--------                         | -----------    | -------                | ------  | -----------|
+|Face-to-face                     | Bidirectional  | Physical proximity     | Minimal | Narrowcast |
+|Printing                         | Unidirectional | National/International | Low     | Broadcast  |
+|Broadcast Mass Media             | Unidirectional | Global                 | High    | Broadcast  |
+|Computer-Medicated Communication | Bidirectional  | Global                 | Minimal | Broadcast  |
 
 ### the institution is the topology
 ### anonymity
@@ -237,7 +237,7 @@ The explosion of perspective and source
   - our information sources are not representative of the broader community
   - loss of cognitive diversity
     - because of the algorithm
-      - purpose of the algotithm isnt truth, it's attention (eyeballs)
+      - purpose of the algorithm isnt truth, it's attention (eyeballs)
   - we are more likely to click thinks we already agree with or like
     - our social networks are like us
     - congruence bias
@@ -246,22 +246,22 @@ The explosion of perspective and source
   - privatisation of public space
     - habermas - we are fracturing the demos
 
-### social media faciliates unreflective participation
+### social media facilitates unreflective participation
 
   - contrast this with TV (passive), SM (active) 
   - supposition: active participation strengthen's belief (@cite)
-  - emotive ideas propogate faster (@cite)
+  - emotive ideas propagate faster (@cite)
 
-### anonymtity allows sock puppets to appropriate the credibility of the pecieved source
+### anonymity allows sock puppets to appropriate the credibility of the perceived source
 
   - myside bias - info sourced from friends more likely to be accepted
-  (cf federalists who used anonymitity to have message stand on its own feet)
+  (cf federalists who used anonymity to have message stand on its own feet)
 
 ### big data enables a deeper understanding of individual demo-psychographics
   - we can better exploit their biases
     - target smaller groups or even individuals
       - ML discovers new feature & categories
-    - tracking enables more effective measurment of message response
+    - tracking enables more effective measurement of message response
       - we can learn what messages work and which don't (cf focus groups)
 
 ### big data + social media is bad for democracy
