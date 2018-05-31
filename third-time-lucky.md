@@ -189,7 +189,13 @@ This brief survey of communication networks, from the face-face communication of
 
 ### closed social networks vs open social networks
 
-As is usually the case, the reality of the Internet's impact on democracy has turned out considerably different to its Utopian promise.  The promise of access to a world of diverse perspectives is not reflected in the experience of many Internet users. 
+As is usually the case, the reality of the Internet's impact on democracy has turned out considerably different to its Utopian promise.  The promise of access to a world of diverse perspectives is not reflected in the experience of many Internet users.  While there are practical issues of finding accurate sources of information on the Internet, directly relevant to our concern here is the diversity of information that is presented to users.  Social media, with its ability to connect like-minded users to each other, can serve to present information from a variety of sources to users.  However, there are two major factors that reduce the diversity of information presented to individuals: the fact that people tend to associate with those with similiar views, and that the big data analysis made possible by social media is used to present individuals with information likely to provoke a response from them.
+
+Social media networks are Internet servies that allow individuals to connect and interact with each other, both publically and privately.  Individuals can choose to follow accounts operated by individuals or groups that interest them.  The accounts users follow serve to direct information of interest to the user.  In the terms of our earlier discussion of political networks, social media are bidirectional communication networks with a negligible cost for broadcasting messages.   
+
+The interactions occurring on social media may be classified as _open_ or _closed_. _Open_ interactions are public in that they are accessible to all other social network users. Posts of Twitter are open, for example, as both the followers of a particular account and other Twitter users can access a user's posts. They are equivalent to broadcast messages on mass media or via traditional web pages in that they are accessible to all. _Closed_ interactions are messages restricted to particular users, such as those who follow a particular account. The messages posted on a private Facebook group are examples of closed interactions.  This distinction between open and closed interactions corresponds with the distinction between broadcast and narrowcast messages.  Social media, therefore, offers a platform for sending narrowcast messages to a select audience with a global reach.
+
+The possibilities for sending narrowcast messages to receptive audiences are further increased by using big data analytics with the data social media collects about individuals' interests.
 
 The emergence of walled gardens ....
 
@@ -201,7 +207,7 @@ Not all social networks are closed .... best conceptualised as degrees of closen
 
 The first major challenge social media presents to the epistemic value of democracy is the echo chamber effect prevalent in closed networks ...
 
-Users of social networks tend to associate with others who share the same interests and characteristics, an effect called homophily [@tufekci_twitter_2017, p. 9].  While social networks make it easier for individuals to find others who share their interests, it also makes it easier to limit their Internet interaction to those who share her views.  Individuals on social networks share news stories and Internet sources that reflect their views, and that are likely to interest their friends.  The news items users see via social media will therefore tend to conform to their biases.  This is the 'echo chamber' effect 
+Users of social media networks tend to associate with others who share the same interests and characteristics, an effect called homophily [@tufekci_twitter_2017, p. 9].  While social networks make it easier for individuals to find others who share their interests, it also makes it easier to limit their Internet interaction to those who share her views.  Individuals on social networks share news stories and Internet sources that reflect their views, and that are likely to interest their friends.  The news items users see via social media will therefore tend to conform to their biases.  This is the 'echo chamber' effect: users find themselves interacting with others who share (and reinforce) their existing views, while also reducing the visibility of other perspectives.  
 
 At best, content is filtered by the user
 
