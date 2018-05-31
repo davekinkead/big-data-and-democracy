@@ -61,17 +61,17 @@ Underpinning the superiority of collective over individual decision making in ag
 ### This presupposes a commitment to the truth by voters. Bad actors can still subvert democracy.
 
   - self interest can lead to subversion of democracy for private ends
-    - see Habermas' "systemically distorted communication" in Knowledge and Human Interests
+    - see Habermas' "systemically distorted communication" in Knowledge and Human Interests @dd
 
-  - political manipulation exploits the psychological disconnect between what people do believe and what people should believe
+  - political manipulation exploits the psychological disconnect between what people do believe and what people should believe @dd
 
-  - Democracy can be corrupted by demagogy (exploiting prejudice and ignorance), sophistry (clever but fallacious), and apathy (preventing people from caring)
+  - Democracy can be corrupted by demagogy (exploiting prejudice and ignorance), sophistry (clever but fallacious), and apathy (preventing people from caring) @dd
 
  Propaganda are public messages that represent given political ideals with the purpose of contributing to achieving those ideals via non-rational means (*supporting propaganda*) or aiming to damage those ideals (*undermining propaganda*) [@stanley_propaganda_2015, pp. 52-53].  Demagoguery and sophistry utilise supporting propaganda, while undermining propaganda encourages apathy towards politics in the audience.
 
-    - example demagogy
-    - example sophistry
-    - example apathy
+    - example demagogy @dd
+    - example sophistry @dd
+    - example apathy @dd
 
 ### Bad actors need not change peoples from antagonists to protagonists
 
@@ -133,6 +133,10 @@ The topology of the political network represents the form of government of the *
   - cf autocratic empires that had reach greater than democracies
 
 ### The technological features of the communication networks that democracies use provides democracy with a degree of epistemic protection against bad actors.
+
+Whilst the topology of the communication network bounds the scope of the demos, the nature of communication medium has traditionally provided democracy with a degree of epistemic robustness from individuals seeking to subvert the truth tracking characteristics of democratic procedures for their own gain.
+
+
 
 ### There is an inherent trade off between how narrowly the content of a message can be targeted at a specific group and how far that message can reach across a network.
 
