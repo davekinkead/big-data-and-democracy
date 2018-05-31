@@ -152,7 +152,7 @@ The technological trade-off that helped keep democracy epistemically robust, bet
 
 In addition to face-to-face political communication, new technologies allow for political messages to reach larger audiences. The emergence of privately operated printing presses allowed for a greater range of political messages to be produced and distributed, even if they were critical of the state [@benkler_wealth_2006, p. 186].  Pamphlets and newspapers served as public bidirectional communication, as individuals who disagree may respond with political messages of their own in the same medium.  Face-to-face communication, such as that in the Athenian *Agora*, is bidirectional, but of course its reach and range is limited by the physical proximity to their audience.  The bidirectional communication printing made possible allowed for political discussion to occur across larger geographical areas and before a greater audience.
 
-While new technologies such as the printing press expanded the range of a political message, they typically did so at the cost of reducing the source's ability to limit their message to a specific audience. For example, consider the Federalist Papers, a series of political essays that themselves were a response to newspaper articles in support of rejecting the proposed Constitution for the United States of America (@kramnick_federalist_1987, p. 76).  Unlike face-to-face communication, the political discussions of the Federalists or their opponents could not be easily tailored to suit particular audiences: their arguments were available to all who could read the newspapers printing them.  The *broadcast* nature of print media means that messages are received by those disinterested, neutral, or hostile to the message, as well as the intended audience [@lilleker_key_2006, pp. 46--48].
+While new technologies such as the printing press expanded the range of a political message, they typically did so at the cost of reducing the source's ability to limit their message to a specific audience. For example, consider the Federalist Papers, a series of political essays that themselves were a response to newspaper articles in support of rejecting the proposed Constitution for the United States of America [@kramnick_federalist_1987, p. 76].  Unlike face-to-face communication, the political discussions of the Federalists or their opponents could not be easily tailored to suit particular audiences: their arguments were available to all who could read the newspapers printing them.  The *broadcast* nature of print media means that messages are received by those disinterested, neutral, or hostile to the message, as well as the intended audience [@lilleker_key_2006, pp. 46--48].
 
 Printed messages also allow for the source of the message to be disguised, either by releasing them anonymously or by attributing them to a pseudonym.  The use of pseudonyms or anonymity in publishing messages allows the messages to be tailored, as it allows an author to present different views under different names, to disguise their common source and without having to be consistent between them. ^[In the case of the Federalist Papers, no such deception was intended: the views presented by Madison, Hamilton, and Jay as 'Publius' did not conflict with their public support for the Constitution.]  Pseudonyms or anonymity in presenting a political message may be used for rhetorical purposes (such as the reference to the Roman Republic that 'Publius' signalled [@kramnick_federalist_1987, p. 72].) or to prevent the message's reception being influenced by any bias (positive or negative) that may result from it being attributed to a particular individual or group.
 
@@ -162,30 +162,9 @@ While newspapers and pamphlets increased the reach of political messages, it als
 
 Radio and television allowed messages to be broadcast across a geographical range unmatched by messages conveyed via earlier technologies.  Radio and television allowed governments and heads of state to address their entire population instantly.  These messages are broadcast to the population, making them accessible to all with the technology necessary to receive them.  As a result, the message's audience is the entire population, rather than specific sections of it.  The unidirectional communication of these mass media networks from transmitters to passive receivers also makes them vulnerable to centralised control [@benkler_2006, p. 196].  The operators of mass media broadcast networks enjoy significant communicative privileges, as they decide what messages appear on their broadcasts and whether they are presented favourably or otherwise.
  
-The communicative privileges afforded to those who control mass media comes at the cost of the ability of communicating directly to a specific group without the rest of the audience receiving the same message.  Mass media messages are expensive to produce, so speakers have strong motivations to make their messages acceptable to as broad an audience as possible.  It becomes less cost effective to tailor political messages towards a specific group within the broader audience.  This accessibility of broadcast political messages imposes its own constraints on the kinds of messages that are sent.  Tailored messages that strongly resonate with specific groups may inspire greater resistance from other groups in the audience.  Political speakers who utilise mass media therefore must either accept that their message will only resonate with a specific group (and that their target audience is sufficiently large to overcome the political backlash from other groups), or present messages that are interpreted differently by different groups, so that the target group hears a message that resonates strongly with them without antagonising the broader audience (i.e., 'dog whistling').
+The communicative privileges afforded to those who control mass media comes at the cost of the ability of communicating directly to a specific group without the rest of the audience receiving the same message.  Mass media messages are expensive to produce, so speakers have strong motivations to make their messages acceptable to as broad an audience as possible.  It becomes less cost effective to tailor political messages towards a specific group within the broader audience.  This accessibility of broadcast political messages imposes its own constraints on the kinds of messages that are sent.  Tailored messages that strongly resonate with specific groups may inspire greater resistance from other groups in the audience.  Political speakers who utilise mass media therefore must either accept that their message will only resonate with a specific group (and that their target audience is sufficiently large to overcome the political backlash from other groups), or present messages that are interpreted differently by different groups, so that the target group hears a message that resonates strongly with them without antagonising the broader audience (i.e., 'dog whistling') [goodin_dog_2005, p. 471].
 
 Despite these practical reasons for crafting messages that appeal to a broad audience, mass media will always be associated with the spread of propaganda. While propaganda has always existed in political communication, the combination of reach and the vividness of the sounds and imagery it can convey, made mass media an excellent platform for it.  To counter this, there are often laws and regulations in place that limit what can be said in political messages if the state is sincere in fostering public political discussion.  Attribution to a specific individual or political party is often required to ensure that speakers are accountable for their messages.  These laws and regulations are intended to prevent the abuse of the communicative privileges that mass media gives to those able to utilise it.  
-
-### each layer faces same trade off
-
-  - broadcast cost increases
-  - broadcast reach increase
-  - msg discrimination decreases (more generic)
-    - why?
-    - the cost of delivery requires economies of scale which limits cost effectiveness of message discrimination
-    - mass sophistry is difficult because different people have different biases and values
-      - sophistry requires that we appeal to specific triggers     
-    - when messages are costly, 
-      - then need to be crafted so they can't be easily dismissed
-      - limits blow back (motivating antagonistic voter)
-      - if msg is manipulative, then it will be targeted at the biggest trigger point
-      - reflection on dog whistling (#DD)
-    - plus media laws limit the worst of this behaviour.      
-
-### the internet changes everything! (broadcast, low-cost, bi-direction, decentralised)
-  - reach increases but is peer-to-peer
-  - broadcast but at low cost
-  - bi directional
 
 The development of the personal computer created new possibilities for Computer-Mediated Communication (CMC) between individuals, regardless of their geographical proximity.  Unlike the passive reception of messages via mass media, CMC describes interactive communication between people via information technology [@ess_computer-mediated_2004, p. 77].  The combination of personal computing and computer networks was hailed as promising an 'electronic *agora*', where individuals could again have political discussions as equals, rather than some have the privilege of access to mass media to convey their messages [@rheingold_virtual_1994, p. 14].  As Howard Rheingold asks rhetorically in his 1994 book *The Virtual Community*: "Which scenario seems more conducive to democracy, which to totalitarian rule: a world in which a few people control communications technology that can be used to manipulate the beliefs of billions, or a world in which every citizen can broadcast to every other citizen?" [-@rheingold_virtual_1994, p. 14] 
 
@@ -200,18 +179,12 @@ This brief survey of communication networks, from the face-face communication of
 |Broadcast Mass Media             | Unidirectional | Global                 | High    | Broadcast  |
 |Computer-Medicated Communication | Bidirectional  | Global                 | Minimal | Broadcast  |
 
-### the institution is the topology
-### anonymity
-### disclosure laws
-
-### "the platform provides communicative privilege"
-
 
 # Act III - Big Data & Democracy
 
 ### closed social networks vs open social networks
 
-As is usually the case, the reality of the Internet's impact on democracy has turned out considerably different to its Utopian promise....
+As is usually the case, the reality of the Internet's impact on democracy has turned out considerably different to its Utopian promise.  The promise of access to a world of diverse perspectives is not reflected in the experience of many Internet users. 
 
 The emergence of walled gardens ....
 
@@ -222,6 +195,8 @@ Not all social networks are closed .... best conceptualised as degrees of closen
 ### social media leads to echo chambers
 
 The first major challenge social media presents to the epistemic value of democracy is the echo chamber effect prevalent in closed networks ...
+
+Users of social networks tend to associate with others who share the same interests and characteristics, an effect called homophily [@tufekci_twitter_2017, p. 9].  While social networks make it easier for individuals to find others who share their interests, it also makes it easier to limit their Internet interaction to those who share her views.  Individuals on social networks share news stories and Internet sources that reflect their views, and that are likely to interest their friends.  The news items users see via social media will therefore tend to conform to their biases.  This is the 'echo chamber' effect 
 
 At best, content is filtered by the user
 
