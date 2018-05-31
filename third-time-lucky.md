@@ -103,6 +103,10 @@ In this light, democratic institutions can be conceptualised as mediated communi
 
 What demarcates one _demos_ from another then, is a function of the communication networks that connects the citizens of those _demoi_, allowing them to debate and persuade each other on the proper conduct of government.  
 
+  - explain more
+
+Viewed from the perspective of a network topology, the demos is simply any sufficiently connected group of individuals who share some form of common political culture and identity.  In this light, network topologies bound political communities.
+
 ### we define a political network as a communication network that facilitates communication between individuals who shared some form of common identity
 
 We define a political network as the communication network between individuals who share a common political identity.  The set of nodes and connections between them represent a given *demos*.  The means of communications that exist between individuals belonging to the *demos* allows them to debate and persuade each other on the proper conduct of government and on issues of common interest.  This is a form of the public sphere identified by Habermas [@benkler_wealth_2006, p. 177].
