@@ -67,7 +67,11 @@ Underpinning the superiority of collective over individual decision making in ag
 
   - Democracy can be corrupted by demagogy (exploiting prejudice and ignorance), sophistry (clever but fallacious), and apathy (preventing people from caring) @dd
 
- Propaganda are public messages that represent given political ideals with the purpose of contributing to achieving those ideals via non-rational means (*supporting propaganda*) or aiming to damage those ideals (*undermining propaganda*) [@stanley_propaganda_2015, pp. 52-53].  Demagoguery and sophistry utilise supporting propaganda, while undermining propaganda encourages apathy towards politics in the audience.
+Democracy may be corrupted by demagoguery, sophistry, and apathy.  Demagoguery and sophistry are two reasons for Plato's hostility to democracy.  In the *Sophist* (267b-c), Plato distinguishes between demagoguery (someone who "can maintain his insincerity in long speeches to a crowd") and *sophistry* ("us[ing] short speeches in private conversation to force the person talking with him to contradict himself").  Demagogues seek and maintain political power by exploiting prejudice and ignorance within the citizenry, and by portraying themselves as the only solution to the society's real or imagined problems.
+
+Sophistry is the use of argumentative and persuasive techniques to convince an audience of something even if it is inconsistent with the facts or the audience's own stated beliefs and commitments.  In the *Gorgias*, Plato's Socrates presses the claim against the orator Gorgias that a good orator can be more persuasive to those without expert knowledge of a subject than an expert (459b). As a result, skilled communicators can be persuasive without necessarily being knowledgeable about their subject. If the audience is not well educated about the subject under debate, they may be persuaded to accept a conclusion that does not depend on the truth of its statements or the logic of the arguments presented to convince its audience to support a political decision.
+
+The third corrupting factor, apathy, weakens democracy by discouraging interest and participation in politics.  As a result, those who vote or otherwise influence political decisions are less representative of the entire society.  The lack of interest in politics by sections of the community may be exploited by others to allow political inequalities to continue or expand at the expense of the apathetic.   
 
     - example demagogy @dd
     - example sophistry @dd
