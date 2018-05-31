@@ -41,7 +41,7 @@ These _epistemic_ justifications of democracy have seen a resurgence in contempo
 Plato's skepticism of democracy's epistemic value was justified however, when one considers the cognitive capacities and skills of its constituents. ....
 
   - the problem of voter ignorance
-  - cognitive flaws of human reasoning
+  - cognitive flaws of human reasoning @dk after part 3
   - diverse values of liberal societies
 
 ### Democratic processes overcome these foibles to produce superior epistemic value.
@@ -83,20 +83,19 @@ Neither do they need to radically shift the beliefs of the citizenry from one si
 
 # Act II - The Network & The Demos
 
-### to be a _demos_, the people need a shared conception of identity
+### To be a _demos_, the people need a shared conception of identity
 
-A stable democracy requires a shared identity and culture.  Its citizens need to identify as one _demos_ lest it fracture and balkanise. 
+The idea of democracy presupposes the notion of a _demos_ - some determinate group of individuals who form a _people_.  It is this people, and not some other, for whom democracy is the rule of, by, and for.  It is this people, and not some other, who share political rights and owe duties to each other.
 
-  - shared rights and duties
+A stable democracy requires a shared identity and culture.  Its people need to identify as one group if they are to hold sufficient solidarity necessary for collective rule.  Without this shared identity, the demos is likely to fracture and balkanise into smaller demoi. This shared identity need not be exclusive however. An individual may identify with multiple overlapping _peoples_ but the individuals within a _people_ must always identify as one.
 
-### a shared identity requires a way to communicate and share information
- 
-This in turn necessitates some common communication network for political messages to be transmitted, understood, and evaluated by citizens. 
+### A shared identity requires a way to communicate and share information
 
-  - how do you share an identity? iteration, communication
-  - what is an identity - who you are and who you are not, a social construct
+A shared identity however, requires some means to share it.  A demos requires some form of communication network for its culture, norms, and political messages to be transmitted, understood, and evaluated by citizens.
 
-  - Habermas characterises democratic institutions as mediated communication networks connecting private individuals (citizens) with their collective identities (citizenship) (@cite).
+  - Habermas summary here  (@cite).
+
+In this light, democratic institutions can be conceptualised as mediated communication networks connecting private individuals (the citizens) with their collective identities (their citizenship).
 
 ### The network defines the demos. Topologies bound political communities.
 
