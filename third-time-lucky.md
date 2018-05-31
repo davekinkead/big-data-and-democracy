@@ -18,23 +18,21 @@ Plato is infamous for his disdain of democracy.  Like being ruled by a jury of c
 
 Decisions made by an unskilled and uniformed _demos_ will always be inferior to those of philosopher-monarchs.  Democratic policy will be determined by base desire rather than reason.  A state ruled by the people will inevitably succumb to the siren's song of a persuasive orator whose lust for power and manipulation of the masses can only result in tyranny.
 
-To rule well, one must have expertise, knowledge, and wisdom. It is obvious then that the decisions of an _episitocracy_ should be superior to the decisions of a _democracy_.
+To rule well, one must have expertise, knowledge, and wisdom. It is obvious then that the decisions of an _episitocracy_ will be superior to the decisions of a _democracy_.
 
-2000 years later, the polymath Sir Francis Galton harboured similar thoughts about decision making.  However, he was surprised to discover after calculating the results of 787 bets on the estimated weight of an ox at a country fair that the median result of the _vox populi_ was within 0.8% of the actual weight (@galton1907).
+2000 years later, the polymath Sir Francis Galton harboured similar thoughts about decision making.  He was surprised to discover however, that after calculating the results of 787 bets on the estimated weight of an ox at a country fair, the median result of the _vox populi_ was within 0.8% of the actual weight (@galton1907).
 
 This result highlights the intriguing epistemic value of collective decision making involving disparate actors - that whenever people of diverse cognitive ability reason collectively in a setting that rewards truth tracking, the collective judgment will be, probabilistically at least, superior to the judgment of any one individual.
 
-The superior epistemic value of collective reasoning is a theme found across a variety of disciplines.  In economics, @hayek1945 championed the superiority of free-markets over centrally planned economies where free individual actors informed by price signals can better allocate resources than a central committee, despite no one actor having a comprehensive understanding of the economy.  
+The superior epistemic value of collective reasoning is a theme found across a variety of disciplines.  In economics, @hayek1945 championed the superiority of free-markets over centrally planned economies where free individual actors informed by price signals can better allocate resources than a central committee, despite no one actor having a comprehensive overall understanding of the economy.  
 
-In science, @kitcher1990 demonstrated how individual cognitive diversity improves collective knowledge when we don't know the truth ahead of time.  Sometimes dubbed the _wisdom of the crowds_ (@cite), these approaches to collective decision making have recently manifested as prediction markets for intelligence analysis (@cia) and data science out sourcing (@kaggle)
+In science, @kitcher1990 demonstrated how individual cognitive diversity improves collective knowledge when we don't know the truth ahead of time.  Sometimes dubbed the _wisdom of the crowds_ (@surowiecki2004), these approaches to collective decision making have recently manifested as prediction markets for intelligence analysis (@cia) and data science out sourcing (@kaggle).
 
 ### Democracy can be viewed as a type of collective decision making
 
-Democracy, of course, is no stranger to this epistemic theme.  Whilst Plato may have preferred epistocracy to democracy, enlightenment scholars were embracing democracy's epistemic power.  Rousseau thought that individuals stating their opinion on a matter by voting would elicit the general will of the people, a general opinion that would be superior than one's own (@rousseau1762). 
+Democracy, of course, is no stranger to this epistemic theme.  Whilst Plato may have preferred epistocracy to democracy, scholars since the enlightenment have been embracing democracy's epistemic power.  Rousseau thought that individuals stating their opinion on a matter by voting would elicit the general will of the people, a general opinion that would be superior than one's own (@rousseau1762).  @jsmill1869 (Ch II) argued that free expression in public debate allowed us to exchanging our errors for truth while @dewey1935 (Liberalism and Social Action §52) saw democracy as a way to share the rich store of accumulated wealth of human knowledge.
 
-Mill "QUOTE" as did Dewey "QUOTE" ... @dk
-
-These _epistemic_ justifications of democracy have seen a resurgence in contemporary political theory in a range of accounts such as public reason (@rawls_political_2005), deliberative democracy (@habermas, @goodin2017), and procedural accounts (@list, @estlund).  Despite their diversity in _how_ they justify democratic legitimacy, epistemic accounts are united in their claim that democratic processes are better, on average at least, at tracking the truth on particular matters than any one individual is. 
+These _epistemic_ justifications of democracy have seen a resurgence in contemporary political theory in a range of accounts such as public reason (@rawls_political_2005), deliberative democracy (@habermas, @goodin2017), and procedural accounts (@list2001, @estlund2009).  Despite their diversity in _how_ they justify democratic legitimacy, epistemic accounts are united in their claim that democratic processes are better, on average at least, at tracking the truth on particular matters than any one individual is. 
 
 ### Democracy's epistemic value is surprising given the cognitive foibles of the individuals involved
 
@@ -169,7 +167,7 @@ While newspapers and pamphlets increased the reach of political messages, it als
 
 - contradiction here between uni & bi-directional earlier
 
-Radio and television allowed messages to be broadcast across a geographical range unmatched by messages conveyed via earlier technologies.  Radio and television allowed governments and heads of state to address their entire population instantly.  These messages are broadcast to the population, making them accessible to all with the technology necessary to receive them.  As a result, the message's audience is the entire population, rather than specific sections of it.  The unidirectional communication of these mass media networks from transmitters to passive receivers also makes them vulnerable to centralised control [@benkler_2006, p. 196].  The operators of mass media broadcast networks enjoy significant communicative privileges, as they decide what messages appear on their broadcasts and whether they are presented favourably or otherwise.  
+Radio and television allowed messages to be broadcast across a geographical range unmatched by messages conveyed via earlier technologies.  Radio and television allowed governments and heads of state to address their entire population instantly.  These messages are broadcast to the population, making them accessible to all with the technology necessary to receive them.  As a result, the message's audience is the entire population, rather than specific sections of it.  The unidirectional communication of these mass media networks from transmitters to passive receivers also makes them vulnerable to centralised control [@benkler_2006, p. 196].  The operators of mass media broadcast networks enjoy significant communicative privileges, as they decide what messages appear on their broadcasts and whether they are presented favourably or otherwise.
  
 The communicative privileges afforded to those who control mass media comes at the cost of the ability of communicating directly to a specific group without the rest of the audience receiving the same message.  Mass media messages are expensive to produce, so speakers have strong motivations to make their messages acceptable to as broad an audience as possible.  It becomes less cost effective to tailor political messages towards a specific group within the broader audience.  This accessibility of broadcast political messages imposes its own constraints on the kinds of messages that are sent.  Tailored messages that strongly resonate with specific groups may inspire greater resistance from other groups in the audience.  Political speakers who utilise mass media therefore must either accept that their message will only resonate with a specific group (and that their target audience is sufficently large to overcome the political backlash from other groups), or present messages that are interpreted differently by different groups, so that the target group hears a message that resonates strongly with them without antagonising the broader audience (i.e., 'dog whistling').
 
@@ -218,9 +216,25 @@ This brief survey of communication networks, from the face-face communication of
 
 # Act III - Big Data & Democracy
 
-### closed social networks (facebook) vs open social networks (twitter) 
+### closed social networks vs open social networks
+
+As is usually the case, the reality of the Internet's impact on democracy has turned out considerably different to its Utopian promise....
+
+The emergence of walled gardens ....
+
+How social media has become a medium of political communication
+
+Not all social networks are closed .... best conceptualised as degrees of closeness from private spaces and algorithmically determined content (facebook) to public spaces with user determined content (twitter)
 
 ### social media leads to echo chambers
+
+The first major challenge social media presents to the epistemic value of democracy is the echo chamber effect prevalent in closed networks ...
+
+At best, content is filtered by the user
+
+At worst, content is filtered algorithmically to maximise user attention.
+
+The explosion of perspective and source
 
   - our information sources are not representative of the broader community
   - loss of cognitive diversity
