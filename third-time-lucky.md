@@ -46,11 +46,13 @@ Plato's scepticism of democracy's epistemic value was justified however, when on
 
 Yet democratic decision processes, whether merely aggregative like voting, or transformative like deliberation, somehow manage to overcome these foibles of individual cognition and values, to produce collective epistemic virtue that is superior or any one individual.
 
-In a purely aggregative account of democracy such as Condorcet's Jury Theorem, voters need not interact beyond voting for majorities to deliver superior epistemic outcomes.  So long as voters on average have a better than even chance of being correct on some issue, the likelihood of the majority vote being correct approaches certainty as the number of voters increases [^cjt].  To give the theorem some concrete context, if the average competence of the electorate is just 51% (marginally better than a coin flip), then the majority vote of 101 voters has a 57% chance of being correct, and 10,001 voters have a 99.99% chance.
+In a purely aggregative account of democracy such as Condorcet's Jury Theorem, voters need not interact beyond voting for majorities to deliver superior epistemic outcomes.  So long as voters on average have a better than even chance of being correct on some issue, the likelihood of the majority vote being correct approaches certainty as the number of voters increases (@condorcet1976)[^cjt].  To give the theorem some concrete context, if the average competence of the electorate is just 51% (marginally better than a coin flip), then the majority vote of 101 voters has a 57% chance of being correct, and 10,001 voters have a 99.99% chance.
 
-[^cjt] The Jury Theorem makes a number of assumptions about voter competence, voter independence, and the objective correctness of some binary choice.  Since Condorcet first published his theorem in XXXX, many of these assumptions have been generalised (see ....)
+[^cjt] The Jury Theorem makes a number of assumptions about voter competence, voter independence, and the objective correctness of some binary choice.  Since Condorcet first published his theorem in 1785, many of these assumptions have been generalised (see @baker1976, @paroush1998, @owen1989, @kanazawa1998, @fey2003, @list2001)
 
-Underpinning the superiority of collective over individual decision making in aggregative accounts like the Jury Theorem is the nature of randomness and imperfection.  As we have seen, human cognition has many biases that lead to faulty reasoning.  While often consistent within individuals, across many individuals, these errors have the appearance of random noise.  We can conceptualise this as an individual's propensity to be correct plus or minus some random error.  When the predictions of many individuals are aggregated, the random errors cancel each other out ...
+Underpinning the superiority of collective over individual decision making in aggregative accounts like the Jury Theorem is the nature of randomness and imperfection.  As we have seen, human cognition has many biases that lead to faulty reasoning.  While often consistent within individuals, well exhibit a degree of random error in our reasoning processes.  If these errors are normally distributed, then across large numbers of individuals, these errors will cancel each other out.
+
+In transformative accounts, the public nature of political discourse identifies both which choices are superior and why.
 
   - robust public debate identifies which choices are superior and why
   - social cognition overcomes many individual biases (myside myopia) 
@@ -63,17 +65,13 @@ Underpinning the superiority of collective over individual decision making in ag
 
   - political manipulation exploits the psychological disconnect between what people do believe and what people should believe @dd
 
-  - Democracy can be corrupted by demagogy (exploiting prejudice and ignorance), sophistry (clever but fallacious), and apathy (preventing people from caring) @dd
+
 
 Democracy may be corrupted by demagoguery, sophistry, and apathy.  Demagoguery and sophistry are two reasons for Plato's hostility to democracy.  In the *Sophist* (267b-c), Plato distinguishes between demagogues (someone who "can maintain his insincerity in long speeches to a crowd") and sophists (those "us[ing] short speeches in private conversation to force the person talking with him to contradict himself").  Demagogues seek and maintain political power by exploiting prejudice and ignorance within the citizenry, and by portraying themselves as the only solution to the society's real or imagined problems.
 
 Sophistry is the use of argumentative and persuasive techniques to convince an audience of something even if it is inconsistent with the facts or the audience's own stated beliefs and commitments.  In the *Gorgias*, Plato's Socrates presses the claim against the orator Gorgias that a good orator can be more persuasive to those without expert knowledge of a subject than an expert (459b). As a result, skilled communicators can be persuasive without necessarily being knowledgeable about their subject.  If the audience is not well educated about the subject under debate, they may be persuaded to accept a conclusion that does not depend on the truth of its statements or the logic of the arguments presented to convince its audience to support a political decision.
 
-The third corrupting factor, apathy, weakens democracy by discouraging interest and participation in politics.  As a result, those who vote or otherwise influence political decisions are less representative of the entire society.  The lack of interest in politics by sections of the community may be exploited by others to allow political inequalities to continue or expand at the expense of the apathetic.   
-
-    - example demagogy @dd
-    - example sophistry @dd
-    - example apathy @dd
+The third corrupting factor, apathy, weakens democracy by discouraging interest and participation in politics.  As a result, those who vote or otherwise influence political decisions are less representative of the entire society.  The lack of interest in politics by sections of the community may be exploited by others to allow political inequalities to continue or expand at the expense of the apathetic.
 
 ### Bad actors need not change peoples from antagonists to protagonists
 
