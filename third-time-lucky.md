@@ -63,11 +63,9 @@ In transformative accounts, the public nature of political discourse identifies 
   - self interest can lead to subversion of democracy for private ends
     - see Habermas' "systemically distorted communication" in Knowledge and Human Interests @dd
 
-  - political manipulation exploits the psychological disconnect between what people do believe and what people should believe @dd
+Political manipulators exploit the psychological disconnect between what people _do_ believe and what people _should_ believe.  They corrupt democracy by employing demagoguery, sophistry, and inducing apathy amongst the _demos_.  
 
-
-
-Democracy may be corrupted by demagoguery, sophistry, and apathy.  Demagoguery and sophistry are two reasons for Plato's hostility to democracy.  In the *Sophist* (267b-c), Plato distinguishes between demagogues (someone who "can maintain his insincerity in long speeches to a crowd") and sophists (those "us[ing] short speeches in private conversation to force the person talking with him to contradict himself").  Demagogues seek and maintain political power by exploiting prejudice and ignorance within the citizenry, and by portraying themselves as the only solution to the society's real or imagined problems.
+Demagoguery and sophistry are two reasons for Plato's hostility to democracy.  In the *Sophist* (267b-c), Plato distinguishes between demagogues (someone who "can maintain his insincerity in long speeches to a crowd") and sophists (those using "short speeches in private conversation to force the person talking with him to contradict himself").  Demagogues seek and maintain political power by exploiting prejudice and ignorance within the citizenry, and by portraying themselves as the only solution to the society's real or imagined problems.
 
 Sophistry is the use of argumentative and persuasive techniques to convince an audience of something even if it is inconsistent with the facts or the audience's own stated beliefs and commitments.  In the *Gorgias*, Plato's Socrates presses the claim against the orator Gorgias that a good orator can be more persuasive to those without expert knowledge of a subject than an expert (459b). As a result, skilled communicators can be persuasive without necessarily being knowledgeable about their subject.  If the audience is not well educated about the subject under debate, they may be persuaded to accept a conclusion that does not depend on the truth of its statements or the logic of the arguments presented to convince its audience to support a political decision.
 
@@ -78,9 +76,6 @@ The third corrupting factor, apathy, weakens democracy by discouraging interest 
 It should be made clear here that demagogues and sophists don't need to change the voting patterns of large swaths of the citizenry in order to subvert the epistemic value of democracy.  Small shifts at the margins are often sufficient.  Trump's 2016 win, for example, was decided by fewer than 100,000 votes across three key states of Michigan, Pennsylvania, and Wisconsin (@fec2016).
 
 Neither do they need to radically shift the beliefs of the citizenry from one side of an issue to the other.  Empiric research suggests that it is very difficult to change voting behaviour of citizens who already identify with a party or issue (@cite).  Despite our cognitive flaws, and often because of them, it is difficult to alter entrenched beliefs (@cite belief preservation).  Instead, demagogues and sophists can undermine epistemic democracy in four key ways: increasing voter turnout amongst protagonistic voters; suppressing voter turnout amongst antagonistic voters; shifting voter preference amongst undecided voters; and undermining confidence in the legitimacy of democratic outcomes.
-    
-  - examples?
-  - both foreign powers and oligarchs?
 
 
 # Act II - The Network & The Demos
