@@ -1,6 +1,6 @@
  This is a form of the public sphere identified by Habermas [@benkler_wealth_2006, p. 177].
 
-
+  - Democracy can be corrupted by demagogy (exploiting prejudice and ignorance), sophistry (clever but fallacious), and apathy (preventing people from caring) @dd
 
 The medium may be speech, text printed in a book or pamphlet, sound, images, and video transmitted by mass media. 
 

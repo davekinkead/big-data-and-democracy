@@ -36,9 +36,11 @@ These _epistemic_ justifications of democracy have seen a resurgence in contempo
 
 ### Democracy's epistemic value is surprising given the cognitive foibles of the individuals involved
 
-Plato's scepticism of democracy's epistemic value was justified however, when one considers the cognitive capacities and skills of its constituents. ....
+Plato's scepticism of democracy's epistemic value was justified however, when one considers the cognitive capacities and skills of its constituents. For over 50 years, political and social scientists have been documenting how poorly informed the voting of democratic citizens is (@converse1964).  News polls regularly show how wide-spread the public's knowledge of basic political concepts and belief in untruths is. Two thirds American voters for example, cannot correctly identify the three branches of government and 70% of thought Saddam Hussein was personally responsible for the 9/11 attacks (@shenkman2009 p4).
 
-  - the problem of voter ignorance
+The problem of voter ignorance remains a rich field of study in political theory that hasn't diminished with time.  In fact given the vast breadth and depth of complexity required to effectively govern a modern state, combined with the diminishingly marginal influence of a vote in large electoral democracies, remaining ignorant on political matters is argued to be rational decision (@downs1957, @parfitt1984).
+
+
   - cognitive flaws of human reasoning @dk after part 3
   - diverse values of liberal societies
 
@@ -63,11 +65,9 @@ In transformative accounts, the public nature of political discourse identifies 
   - self interest can lead to subversion of democracy for private ends
     - see Habermas' "systemically distorted communication" in Knowledge and Human Interests @dd
 
-  - political manipulation exploits the psychological disconnect between what people do believe and what people should believe @dd
+Political manipulators exploit the psychological disconnect between what people _do_ believe and what people _should_ believe.  They corrupt democracy by employing demagoguery, sophistry, and inducing apathy amongst the _demos_.  
 
-
-
-Democracy may be corrupted by demagoguery, sophistry, and apathy.  Demagoguery and sophistry are two reasons for Plato's hostility to democracy.  In the *Sophist* (267b-c), Plato distinguishes between demagogues (someone who "can maintain his insincerity in long speeches to a crowd") and sophists (those "us[ing] short speeches in private conversation to force the person talking with him to contradict himself").  Demagogues seek and maintain political power by exploiting prejudice and ignorance within the citizenry, and by portraying themselves as the only solution to the society's real or imagined problems.
+Demagoguery and sophistry are two reasons for Plato's hostility to democracy.  In the *Sophist* (267b-c), Plato distinguishes between demagogues (someone who "can maintain his insincerity in long speeches to a crowd") and sophists (those using "short speeches in private conversation to force the person talking with him to contradict himself").  Demagogues seek and maintain political power by exploiting prejudice and ignorance within the citizenry, and by portraying themselves as the only solution to the society's real or imagined problems.
 
 Sophistry is the use of argumentative and persuasive techniques to convince an audience of something even if it is inconsistent with the facts or the audience's own stated beliefs and commitments.  In the *Gorgias*, Plato's Socrates presses the claim against the orator Gorgias that a good orator can be more persuasive to those without expert knowledge of a subject than an expert (459b). As a result, skilled communicators can be persuasive without necessarily being knowledgeable about their subject.  If the audience is poorly educated about the subject under debate, they may be persuaded to accept a conclusion that does not depend on the truth of its statements or the logic of the arguments presented to convince its audience to support a political decision.
 
@@ -78,9 +78,6 @@ The third corrupting factor, apathy, weakens democracy by discouraging interest 
 It should be made clear here that demagogues and sophists don't need to change the voting patterns of large swaths of the citizenry in order to subvert the epistemic value of democracy.  Small shifts at the margins are often sufficient.  Trump's win in the 2016 US Presidental election, for example, was decided by fewer than 100,000 votes across three key states of Michigan, Pennsylvania, and Wisconsin (@fec2016).
 
 Neither do they need to radically shift the beliefs of the citizenry from one side of an issue to the other.  Empiric research suggests that it is very difficult to change voting behaviour of citizens who already identify with a party or issue (@cite).  Despite our cognitive flaws, and often because of them, it is difficult to alter entrenched beliefs (@cite belief preservation).  Instead, demagogues and sophists can undermine epistemic democracy in four key ways: increasing voter turnout amongst protagonistic voters; suppressing voter turnout amongst antagonistic voters; shifting voter preference amongst undecided voters; and undermining confidence in the legitimacy of democratic outcomes.
-    
-  - examples?
-  - both foreign powers and oligarchs?
 
 
 # Act II - The Network & The Demos
@@ -119,17 +116,13 @@ A _demos_ cannot grow beyond its political network.  The information flows neces
 
 *- a democratic network is one that has a dense peer to peer topology. cf autocratic networks that have certain nodes with communicative privilege.*
 
-The topology of the political network represents the political structure of the _demos_. More autocratic _demoi_ have a political network that represents a star topology, where a central node (or nodes) has considerable connections to the other nodes. These are the rules of the _demos_. The regular citizens (the ruled) have few (if any) connections to other nodes. A political network with an simplified autocratic topology is shown in figure 1.
+The topology of the political network represents the political structure of the _demos_. More autocratic _demoi_ have a political network that represents a star topology, where a central node (or nodes) has considerable connections to the other nodes. These are the rules of the _demos_. The regular citizens (the ruled) have few (if any) connections to other nodes. A political network with an simplified autocratic topology is shown in figure 1. The node at the centre of the diagram represents the ruler of the _demos_. It is the only node that is connected to all other nodes, and thus enjoys significant communicative privileges.
 
-![Figure 1: An autocratic political network topology.](autocratic_network.png)
+![Figure 1: An autocratic political network topology.](autocratic_network.png) 
 
-The node at the centre of the diagram represents the ruler of the _demos_. It is the only node that is connected to all other nodes, and thus enjoys significant communicative privileges. 
+In contrast, democratic political networks have a topology where nodes have varying numbers of connections to other nodes.  They tend to resemble a web or cluster of connected nodes. While some nodes may have more connections than others, all nodes have a possible path to every other node.  A political network with a democratic topology is shown in figure 2.  As the citizens are both rulers and ruled (in the democratic sense that they have some influence in political decisions and are also bound by them), they have the means and opportunity to communicate with each other about political matters.
 
-In contrast, democratic political networks have a topology where nodes have varying numbers of connections to other nodes.  They tend to resemble a web or cluster of connected nodes. While some nodes may have more connections than others, all nodes have a possible path to every other node.  A political network with a democratic topology is shown in figure 2.
-
-![Figure 2: A democratic political network topology.](democratic_network.png)
-
-As the citizens are both rulers and ruled (in the democratic sense that they have some influence in political decisions and are also bound by them), they have the means and opportunity to communicate with each other about political matters.
+![Figure 2: A democratic political network topology.](democratic_network.png) 
 
 Yet these political topologies are themselves a function of the communicative medium.  In the early democracies such as Athens, communication was limited to face-to-face discussion or parchment.  The means of political communication were limited the range of one's voice or how far a letter could be carried.  The scope of shared political identity was therefore limited to one's neighbours and neighbour's neighbours.  Democratic government was constrained to city-states as the necessary means of command and control for larger scale rule was missing.
 
@@ -192,9 +185,9 @@ This brief survey of communication networks, from the face-face communication of
 
 ### closed social networks vs open social networks
 
-As is usually the case, the reality of the Internet's impact on democracy has turned out considerably different to its Utopian promise.  The promise of access to a world of diverse perspectives is not reflected in the experience of many Internet users.  While there are practical issues of finding accurate sources of information on the Internet, directly relevant to our concern here is the diversity of information that is presented to users.  Social media, with its ability to connect like-minded users to each other, can serve to present information from a variety of sources to users.  However, there are two major factors that reduce the diversity of information presented to individuals: the fact that people tend to associate with those with similiar views, and that the big data analysis made possible by social media is used to present individuals with information likely to provoke a response from them.  Cass R. Sunstein [-@sunstein_republic:_2017, p. 6] calls these concerns "_people's growing power to filter what they see_, and also _providers' growing power to filter for each of us, based on what they know about us_." (emphasis in original) 
+As is usually the case, the reality of the Internet's impact on democracy has turned out considerably different to its Utopian promise.  The promise of access to a world of diverse perspectives is not reflected in the experience of many Internet users.  While there are practical issues of finding accurate sources of information on the Internet, directly relevant to our concern here is the diversity of information that is presented to users.  Social media, with its ability to connect like-minded users to each other, can serve to present information from a variety of sources to users.  However, there are two major factors that reduce the diversity of information presented to individuals: the fact that people tend to associate with those with similar views, and that the big data analysis made possible by social media is used to present individuals with information likely to provoke a response from them. Cass R. Sunstein [-@sunstein_republic:_2017, p. 6] calls these concerns "_people's growing power to filter what they see_, and also _providers' growing power to filter for each of us, based on what they know about us_." (emphasis in original) 
 
-Social media networks are forms of computer-mediated communication that allow individuals to connect and interact with each other across the Internet, both publically and privately.  Individuals can choose to follow accounts operated by individuals or groups that interest them.  The accounts users follow serve to direct information of interest to the user.  In the terms of our earlier discussion of political networks, social media are bidirectional communication networks with a negligible cost for broadcasting messages.  They have a global reach, but unlike the utopian pictures of Internet communication, they are centralised (as they required a social media network operator) and allow for narrowcast messages.  
+Social media networks are forms of computer-mediated communication that allow individuals to connect and interact with each other across the Internet, both publicly and privately.  Individuals can choose to follow accounts operated by individuals or groups that interest them.  The accounts users follow serve to direct information of interest to the user.  In the terms of our earlier discussion of political networks, social media are bidirectional communication networks with a negligible cost for broadcasting messages.  They have a global reach, but unlike the utopian pictures of Internet communication, they are centralised (as they required a social media network operator) and allow for narrowcast messages.  
 
 The interactions occurring on social media may be classified as _open_ or _closed_.  _Open_ interactions are public in that they are accessible to other social network users.  Posts of Twitter are open, for example, as both the followers of a particular account and other Twitter users can access a user's posts.  They are equivalent to broadcast messages on mass media or via traditional web pages in that they are accessible to all.  _Closed_ interactions are messages restricted to particular users, such as those who follow a particular account.  The messages posted on a private Facebook group are examples of closed interactions.  This distinction between open and closed interactions corresponds with the distinction between broadcast and narrowcast messages.  Social media, therefore, offers a platform for sending narrowcast messages to a select audience with a global reach.
 
