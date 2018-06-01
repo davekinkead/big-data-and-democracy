@@ -219,49 +219,12 @@ These aspects of the combination of social media and big data analytics (the ten
 
 # Conclusion
 
-The combination of social media and big data analytics has created a new possibility for global, bidirectional, narrowcast political messages.
+The combination of social media and big data analytics has created a new possibility for global, bidirectional, narrowcast political messages.  Democracies have historically developed alongside communication technologies that allowed broadcast messages across large geographical areas and populations at the expense of limiting the speaker's amount to discriminate between different listeners.  Social media offers the perfect platform for political speakers to tailor their messages for separate audiences, rather than offer messages that must resonate with sections of the audience while also avoiding antagonising others.  This ability to communicate different messages to different sections of the _demos_, with a low possibility of these messages coming to the attention of those outside of their intended audience.  Citizens of the _demos_ who receive political messages tailored to their interests, informed by news that reflects their biases, and reinforced by echo chambers filled with others of similar views, risk losing the mutual toleration of citizens with differing political views.  This risks undermining the common identity necessary for a stable democracy to sustain itself.  
+
+As we have described, communication technologies have changed remarkably over the time that democratic societies have existed.  Different technologies have created new challenges and opportunities for democracies.  The combination of social media and big data is no different: democracies are adjusting to the new possibilities for narrowcast political messages that they make available.  Only by recognising the risks these new technologies pose to how citizens are informed and may be influenced will the epistemic justifications for democratic societies continue to be compelling.
 
 
 
-
-
-
-
-  - our information sources are not representative of the broader community
-  - loss of cognitive diversity
-    - because of the algorithm
-      - purpose of the algorithm isnt truth, it's attention (eyeballs)
-  - we are more likely to click thinks we already agree with or like
-    - our social networks are like us
-    - congruence bias
-    - confirmation bias
-    - base rate fallacy
-  - privatisation of public space
-    - habermas - we are fracturing the demos
-
-### social media facilitates unreflective participation
-
-  - contrast this with TV (passive), SM (active) 
-  - supposition: active participation strengthen's belief (@cite)
-  - emotive ideas propagate faster (@cite)
-
-### anonymity allows sock puppets to appropriate the credibility of the perceived source
-
-  - myside bias - info sourced from friends more likely to be accepted
-  (cf federalists who used anonymity to have message stand on its own feet)
-
-### big data enables a deeper understanding of individual demo-psychographics
-  - we can better exploit their biases
-    - target smaller groups or even individuals
-      - ML discovers new feature & categories
-    - tracking enables more effective measurement of message response
-      - we can learn what messages work and which don't (cf focus groups)
-
-### big data + social media is bad for democracy
-  - narrow targeting based on public features
-    - targeted ads multiply socially shared info
-    - anonymity circumvents traditional political disclosure laws
-  - private networks reduce the cost of sophistry
 
 Summary: Social networks have changed the political topology. Big data provides more insight into the preferences and biases of individuals.
 
