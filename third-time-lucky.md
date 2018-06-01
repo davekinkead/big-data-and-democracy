@@ -121,6 +121,10 @@ A _demos_ cannot grow beyond its political network.  The information flows neces
 
 The topology of the political network represents the political structure of the _demos_.
 
+A political network with an autocratic topology is shown in figure 1. ![Figure 1: An autocratic political network topology.](autocratic_network.png)
+
+A political network with a democratic topology is shown in figure 2. ![Figure 2: A democratic political network topology.](democratic_network.png)
+
 ### Topologies are limited by communication technology 
 
 Yet these political topologies are themselves a function of the communicative medium.  In the early democracies such as Athens, communication was limited to face-to-face discussion or parchment.  The means of political communication were limited the range of one's voice or how far a letter could be carried.  The scope of shared political identity was therefore limited to one's neighbours and neighbour's neighbours.  Democratic government was constrained to city-states as the necessary means of command and control for larger scale rule was missing.
