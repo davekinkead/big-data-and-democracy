@@ -93,15 +93,15 @@ A stable democracy requires a shared identity and culture.  Its people need to i
 
 ### A shared identity requires a way to communicate and share information
 
-A shared identity however, requires some means to share it.  A _demos_ requires some form of communication network for its culture, norms, and political messages to be transmitted, understood, and evaluated by citizens.
+A shared identity however, requires some means to share it.  A _demos_ requires some form of communication network for its culture, norms, and political messages to be transmitted, understood, and evaluated by citizens.  The classical model of communication has four components: the communication source, the message communicated, the medium or channel used, and the receiver of the communication [@lilleber_key_2006, p. 17].  These components form a network.  The nodes in a network are the sources and receivers of messages sent across the medium connecting them and the pattern of these connections are the network's _topology_.
+
+Stable democracies also require political norms of _mutual toleration_ and _institutional forbearance_ [@levitsky_how_2018, pp. 102-106].  Mutual toleration requires citizens to recognise each other as political equals regardless of political differences.  Political opponents are rivals rather than criminals or existential threats to the _demos_.  Institutional forbearance is the norm that those with political power respect the spirit of law and regulation rather use the letter of the law or exploit loopholes in it to undermine political opponents and democratic process. 
 
   - Habermas summary here  (@cite).
 
 In this light, democratic institutions can be conceptualised as mediated communication networks connecting private individuals (the citizens) with their collective identities (their citizenship).
 
 ### The network defines the demos. 
-
-The classical model of communication has four components: the communication source, the message communicated, the medium or channel used, and the receiver of the communication [@lilleber_key_2006, p. 17].  These components form a network.  The nodes in a network are the sources and receivers of messages sent across the medium connecting them and the pattern of these connections are the network's _topology_.
 
 We define a political network as the communication network between individuals who share some common political identity.  The senders and receivers of political information - both explicit political messages as well as common norms and cultural information - are the citizens.  The set of nodes and connections between them represent a given _demos_.
 
@@ -119,9 +119,17 @@ A _demos_ cannot grow beyond its political network.  The information flows neces
 
 *- a democratic network is one that has a dense peer to peer topology. cf autocratic networks that have certain nodes with communicative privilege.*
 
-The topology of the political network represents the political structure of the _demos_. More autocratic _demoi_ have a political network that represents a star topology, where a central node (or nodes) has considerable connections to the other nodes. These are the rules of the _demos_. The regular citizens (the ruled) have few (if any) connections to other nodes. A political network with an simplified autocratic topology is shown in figure 1. ![Figure 1: An autocratic political network topology.](autocratic_network.png) The node at the centre of the diagram represents the ruler of the _demos_. It is the only node that is connected to all other nodes, and thus enjoys significant communicative privileges. 
+The topology of the political network represents the political structure of the _demos_. More autocratic _demoi_ have a political network that represents a star topology, where a central node (or nodes) has considerable connections to the other nodes. These are the rules of the _demos_. The regular citizens (the ruled) have few (if any) connections to other nodes. A political network with an simplified autocratic topology is shown in figure 1.
 
-In contrast, democratic political networks have a topology where nodes have varying numbers of connections to other nodes.  They tend to resemble a web or cluster of connected nodes. While some nodes may have more connections than others, all nodes have a possible path to every other node.  A political network with a democratic topology is shown in figure 2. ![Figure 2: A democratic political network topology.](democratic_network.png)  As the citizens are both rulers and ruled (in the democratic sense that they have some influence in political decisions and are also bound by them), they have the means and opportunity to communicate with each other about political matters.
+![Figure 1: An autocratic political network topology.](autocratic_network.png)
+
+The node at the centre of the diagram represents the ruler of the _demos_. It is the only node that is connected to all other nodes, and thus enjoys significant communicative privileges. 
+
+In contrast, democratic political networks have a topology where nodes have varying numbers of connections to other nodes.  They tend to resemble a web or cluster of connected nodes. While some nodes may have more connections than others, all nodes have a possible path to every other node.  A political network with a democratic topology is shown in figure 2.
+
+![Figure 2: A democratic political network topology.](democratic_network.png)
+
+As the citizens are both rulers and ruled (in the democratic sense that they have some influence in political decisions and are also bound by them), they have the means and opportunity to communicate with each other about political matters.
 
 Yet these political topologies are themselves a function of the communicative medium.  In the early democracies such as Athens, communication was limited to face-to-face discussion or parchment.  The means of political communication were limited the range of one's voice or how far a letter could be carried.  The scope of shared political identity was therefore limited to one's neighbours and neighbour's neighbours.  Democratic government was constrained to city-states as the necessary means of command and control for larger scale rule was missing.
 
