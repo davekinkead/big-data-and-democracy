@@ -112,11 +112,11 @@ A _demos_ cannot grow beyond its political network.  The information flows neces
 
 The topology of the political network represents the political structure of the _demos_. More autocratic _demoi_ have a political network that represents a star topology, where a central node (or nodes) has considerable connections to the other nodes. These are the rules of the _demos_. The regular citizens (the ruled) have few (if any) connections to other nodes. A political network with an simplified autocratic topology is shown in figure 1. The node at the centre of the diagram represents the ruler of the _demos_. It is the only node that is connected to all other nodes, and thus enjoys significant communicative privileges.
 
-![Figure 1: An autocratic political network topology.](autocratic_network.png) 
+![Figure 1: An autocratic political network topology.](images/autocratic_network.png) 
 
 In contrast, democratic political networks have a topology where nodes have varying numbers of connections to other nodes.  They tend to resemble a web or cluster of connected nodes. While some nodes may have more connections than others, all nodes have a possible path to every other node.  A political network with a democratic topology is shown in figure 2.  As the citizens are both rulers and ruled (in the democratic sense that they have some influence in political decisions and are also bound by them), they have the means and opportunity to communicate with each other about political matters.
 
-![Figure 2: A democratic political network topology.](democratic_network.png) 
+![Figure 2: A democratic political network topology.](images/democratic_network.png) 
 
 Yet these political topologies are themselves a function of the communicative medium.  In the early democracies such as Athens, communication was limited to face-to-face discussion or parchment.  The means of political communication were limited the range of one's voice or how far a letter could be carried.  The scope of shared political identity was therefore limited to one's neighbours and neighbour's neighbours.  Democratic government was constrained to city-states as the necessary means of command and control for larger scale rule was missing.
 
