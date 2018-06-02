@@ -1,4 +1,27 @@
+
+  - Topologies can form many patterns.  they enable C&C
+  - Autocratic topology - star shaped.
+  - Democratic topologies: Rule by the people requires a particular pattern -- dense peer-to-peer.  
+
+*- political networks are public networks. if it isnt connecting citizens, then it isn't political.  public sphere, shared understanding????*
+
+*- a democratic network is one that has a dense peer to peer topology. cf autocratic networks that have certain nodes with communicative privilege.*
+
+More autocratic _demoi_ have a political network that represents a star topology, where a central node (or nodes) has considerable connections to the other nodes. These are the rules of the _demos_. The regular citizens (the ruled) have few (if any) connections to other nodes. A political network with an simplified autocratic topology is shown in figure 1. The node at the centre of the diagram represents the ruler of the _demos_. It is the only node that is connected to all other nodes, and thus enjoys significant communicative privileges.
+
+In contrast, democratic political networks have a topology where nodes have varying numbers of connections to other nodes.  
+
+A political network with a democratic topology is shown in figure 2.  As the citizens are both rulers and ruled (in the democratic sense that they have some influence in political decisions and are also bound by them), they have the means and opportunity to communicate with each other about political matters.
+
+
+> Stable democracies also require political norms of _mutual toleration_ and _institutional forbearance_ [@levitsky_how_2018, pp. 102-106].  Mutual toleration requires citizens to recognise each other as political equals regardless of political differences.  Political opponents are rivals rather than criminals or existential threats to the _demos_.  Institutional forbearance is the norm that those with political power respect the spirit of law and regulation rather use the letter of the law or exploit loopholes in it to undermine political opponents and democratic process. 
+
+-- not sure about this para above ^^^. I think we should kill it.
+
 The third corrupting factor, apathy, weakens democracy by discouraging interest and participation in politics.  As a result, those who vote or otherwise influence political decisions are less representative of the entire society.  The lack of interest in politics by sections of the community may be exploited by others to allow political inequalities to continue or expand at the expense of the apathetic. 
+
+Unlike Plato, we make no important distinction between sophistry and demagoguery as one can use clever but fallacious arguments to exploit an audience's ignorance and prejudices.  As such, we will use the terms interchangeably.
+
 
 This is a form of the public sphere identified by Habermas [@benkler_wealth_2006, p. 177].
 
