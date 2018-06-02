@@ -1,4 +1,6 @@
- This is a form of the public sphere identified by Habermas [@benkler_wealth_2006, p. 177].
+The third corrupting factor, apathy, weakens democracy by discouraging interest and participation in politics.  As a result, those who vote or otherwise influence political decisions are less representative of the entire society.  The lack of interest in politics by sections of the community may be exploited by others to allow political inequalities to continue or expand at the expense of the apathetic. 
+
+This is a form of the public sphere identified by Habermas [@benkler_wealth_2006, p. 177].
 
   - Democracy can be corrupted by demagogy (exploiting prejudice and ignorance), sophistry (clever but fallacious), and apathy (preventing people from caring) @dd
 
