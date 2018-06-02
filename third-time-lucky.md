@@ -9,8 +9,6 @@ status: outline
 bibliography: big_data_and_democracy.bib
 ---
 
-Thesis: The nature of communication networks provided democracy with epistemic robustness.  Big data and social media are now eroding this robustness.
-
 In September 2016, Alexander Nix, the CEO of Cambridge Analytica, gave a presentation at the annual Concordia Summit in New York City.  His presentation, 'The Power of Big Data and Psychographics', described how his company had assisted the unsuccessful bid of US Sensor Ted Cruz for the Republican Party nomination for the 2016 US Presidential election.  Nix explained that his company had developed a model to "predict the personality of every single adult in the United States of America" based on "hundreds and hundreds of thousands" of responses by Americans to a survey.  The purpose of this model was to tailor political messages to target individuals with particular personality traits.  As Nix explained: "Today communication is becoming ever increasingly targeted. It's being individualised for every single person in this room. [...] [Y]ou'll only receive adverts that not only are on the products and services, or in the case of elections, issues that you care about most, but that have been nuanced in order to reflect the way you see the world." [@noauthor_power_2016]
 
 While Cambridge Analytica would later face questions about how they acquired data via a personality test app they deployed on Facebook, the techniques Nix described demonstrate the possibilities for political messaging that the combination of social media and big data analytics offers.  Indeed, the reelection campaign for President Barack Obama in the 2012 US Presidential election was famous for its use of social media and big data analytics [@oneil_weapons_2016, pp. 188-193].  Political organisations now have the tools to identify the issues important to specific individuals, how to present their case in the most effective way for those individuals, and the means to communicate their message directly to individuals without others seeing the same message.  Political discussion becomes a private conversation between the speaker and the targeted audience.
@@ -23,9 +21,7 @@ The internet and big data analytics have changed the nature of political communi
 
 In this chapter, we explore what impact this decoupling has on democracy.  We describe how political discussion in democracies has changed over time, as both communication technology and the number of people included in the *demos* have changed.  We show that communication technology has previously increased the reach of political messages while also making such messages more public and less targeted towards particular individuals or groups.  We then show how social media and big data combine to create echo chambers of political discourse that undermine key assumptions that underpin epistemic justifications of democracy: specifically, the independence and competence assumptions of Condorcet's Jury Theorem, and the shared identity assumption of deliberative accounts.
 
-# Act I - Democracy and Demagoguery
-
-### Collective decision making has a surprisingly powerful epistemic value.
+# Part I - Democracy and Demagoguery
 
 Plato is infamous for his disdain of democracy.  Like being ruled by a jury of children, democracy erodes reason by suffocating the voice of wisdom in a cloud of ignorance.  Like a ship at sea, the state needs specialist knowledge and skill - the keen eye of the navigator and the calm hand of an experienced captain - to steer it through troubled waters.
 
@@ -41,13 +37,9 @@ The superior epistemic value of collective reasoning is a theme found across a v
 
 In science, @kitcher1990 demonstrated how individual cognitive diversity improves collective knowledge when we don't know the truth ahead of time.  Sometimes dubbed the _wisdom of the crowds_ (@surowiecki2004), these approaches to collective decision making have recently manifested as prediction markets for intelligence analysis (@cia) and data science out sourcing (@kaggle).
 
-### Democracy can be viewed as a type of collective decision making
-
 Democracy, of course, is no stranger to this epistemic theme.  Whilst Plato may have preferred epistocracy to democracy, scholars since the enlightenment have been embracing democracy's epistemic power.  Rousseau thought that individuals stating their opinion on a matter by voting would elicit the general will of the people, a general opinion that would be superior than one's own (@rousseau1762).  @jsmill1869 (Ch II) argued that free expression in public debate allowed us to exchanging our errors for truth while @dewey1935 (Liberalism and Social Action §52) saw democracy as a way to share the rich store of accumulated wealth of human knowledge.
 
 These _epistemic_ justifications of democracy have seen a resurgence in contemporary political theory in a range of accounts such as public reason (@rawls_political_2005), deliberative democracy (@habermas, @goodin2017), and procedural accounts (@list2001, @estlund2009).  Despite their diversity in _how_ they justify democratic legitimacy, epistemic accounts are united in their claim that democratic processes are better, on average at least, at tracking the truth on particular matters than any one individual is. 
-
-### Democracy's epistemic value is surprising given the cognitive foibles of the individuals involved
 
 Plato's scepticism of democracy's epistemic value was justified however, when one considers the cognitive capacities and skills of its constituents. For over 50 years, political and social scientists have been documenting how poorly informed the voting of democratic citizens is (@converse1964).  News polls regularly show how wide-spread the public's lack of basic political knowledge and belief in untruths is. Two thirds American voters for example, cannot correctly identify the three branches of government and 70% of thought Saddam Hussein was personally responsible for the 9/11 attacks (@shenkman2009 p4).
 
@@ -60,11 +52,9 @@ Even if citizens had the means and motivation to become adequately informed howe
 
 These biases manifest especially when reasoning about politics.  Voters reason like sports fans, largely incapable of objectively assessing the merits of policy (@somin2006).  @taber2006 for example, demonstrate how prior voter attitudes to particular policies strongly influence how arguments for those policies are evaluated, uncritically accepting arguments congruent with their prior beliefs and unreflectively rebutting those that aren't.
 
-These biases can even increase as individual reasoning ability increases.  
+These biases can even increase as individual reasoning ability increases.  ...
 
   - diverse values of liberal societies
-
-### Democratic processes overcome these foibles to produce superior epistemic value.
 
 Yet democratic decision processes, whether merely aggregative like voting, or transformative like deliberation, somehow manage to overcome these foibles of individual cognition and values, to produce collective epistemic virtue that is superior or any one individual.
 
@@ -91,22 +81,16 @@ Sophistry is the use of argumentative and persuasive techniques to convince an a
 
 The third corrupting factor, apathy, weakens democracy by discouraging interest and participation in politics.  As a result, those who vote or otherwise influence political decisions are less representative of the entire society.  The lack of interest in politics by sections of the community may be exploited by others to allow political inequalities to continue or expand at the expense of the apathetic.
 
-### Bad actors need not change peoples from antagonists to protagonists
-
 It should be made clear here that demagogues and sophists don't need to change the voting patterns of large swaths of the citizenry in order to subvert the epistemic value of democracy.  Small shifts at the margins are often sufficient.  Trump's win in the 2016 US Presidential election, for example, was decided by fewer than 100,000 votes across three key states of Michigan, Pennsylvania, and Wisconsin (@fec2016).
 
 Neither do they need to radically shift the beliefs of the citizenry from one side of an issue to the other.  Empiric research suggests that it is very difficult to change voting behaviour of citizens who already identify with a party or issue (@cite).  Despite our cognitive flaws, and often because of them, it is difficult to alter entrenched beliefs (@cite belief preservation).  Instead, demagogues and sophists can undermine epistemic democracy in four key ways: increasing voter turnout amongst protagonistic voters; suppressing voter turnout amongst antagonistic voters; shifting voter preference amongst undecided voters; and undermining confidence in the legitimacy of democratic outcomes.
 
 
-# Act II - The Network & The Demos
-
-### To be a _demos_, the people need a shared conception of identity
+# Part II - The Network & The Demos
 
 The idea of democracy presupposes the notion of a _demos_ - some determinate group of individuals who form a _people_.  It is this people, and not some other, for whom democracy is the rule of, by, and for.  It is this people, and not some other, who share political rights and owe duties to each other.
 
 A stable democracy requires a shared identity and culture.  Its people need to identify as one group if they are to hold sufficient solidarity necessary for collective rule.  Without this shared identity, the _demos_ is likely to fracture into smaller _demoi_. This shared identity need not be exclusive however. An individual may identify with multiple overlapping _peoples_ but the individuals within a _people_ must always identify as one.
-
-### A shared identity requires a way to communicate and share information
 
 A shared identity however, requires some means to share it.  A _demos_ requires some form of communication network for its culture, norms, and political messages to be transmitted, understood, and evaluated by citizens.  The classical model of communication has four components: the communication source, the message communicated, the medium or channel used, and the receiver of the communication [@lilleber_key_2006, p. 17].  These components form a network.  The nodes in a network are the sources and receivers of messages sent across the medium connecting them and the pattern of these connections are the network's _topology_.
 
@@ -116,13 +100,9 @@ Stable democracies also require political norms of _mutual toleration_ and _inst
 
 In this light, democratic institutions can be conceptualised as mediated communication networks connecting private individuals (the citizens) with their collective identities (their citizenship).
 
-### The network defines the demos. 
-
 We define a political network as the communication network between individuals who share some common political identity.  The senders and receivers of political information - both explicit political messages as well as common norms and cultural information - are the citizens.  The set of nodes and connections between them represent a given _demos_.
 
 What demarcates one _demos_ from another then, is a function of the communication networks that connect the citizens of those _demoi_. Viewed from the perspective of a network topology, the demos is simply any sufficiently connected group of individuals who share some form of common political culture and identity. 
-
-### Topologies bound political communities.
 
 A _demos_ cannot grow beyond its political network.  The information flows necessary to facilitate a shared political identity require a sufficiently dense concentration of connections between citizens.  As the these connections grow, so does the potential scope of the _demos_.
 
@@ -160,15 +140,11 @@ Network topologies bound political communities and these topologies are constrai
   - democracy's demos can only expand to the extent of democratic network reach
   - cf autocratic empires that had reach greater than democracies
 
-### The technological features of the communication networks that democracies use provides democracy with a degree of epistemic protection against bad actors.
-
 Whilst the topology of the communication network binds the scope of the _demos_ and the communications technology limits the scope of the topology, the nature of communication medium has also provided democracy with a degree of epistemic robustness from individuals seeking to subvert the truth tracking characteristics of democratic procedures for their own gain.  It is relatively straight-forward to hold individuals to account for face-to-face communication, since it is difficult to obscure one's identity in this context.  Liars and demagogues may be challenged directly by others. As means of communication developed that had greater geographical reach emerged, such as print and mass media, it became easier to disguise the source of political messages. However, it also became more difficult to limit messages to a specific group within a broader audience.  There is an inherent trade-off between how narrowly the content of a message can be targeted at a specific group and how far that message can reach across a network.
 
 In Athens, political communication was characterised by face-to-face speech.  One could stand in the _agora_ and shout to be heard by all, or one could whisper to individuals in private.  The scope for sophistry was greatest in private.  When conversing with an individual, one could develop a rich understanding of their values, motivations, wants and needs.  One could craft a message that was highly targeted to maximally exploit this understanding and manipulate the other for one's own ends. (Recall Plato's claim that a skilled communicator can be more convincing about a subject than an expert.)  When speaking to all in the Agora however, the scope for sophistry was more limited.  The increased diversity of individual values made specific appeals to emotion and authority more difficult as what might persuade some could dissuade others.  Furthermore, because the Agora was a forum of _public_ debate, others were able to respond.  Different perspectives could be offered and flaws in one's argument could be more easily identified by others.  Being called out as a sophist now carried a cost, both in damage to one's reputation and the persuasive backfire effect when the manipulation of others was identified. 
 
 The technological trade-off that helped keep democracy epistemically robust, between broadcast and narrowcast, between the reach of a message and the ability target it to a segment of the audience, began to emerge.  The public nature of the broadcast communication constrained the worst of sophist behaviour, although as the history of democratically elected demagogues shows, it doesn't guarantee against it.  Attacks against the legitimacy of the political process, the media, and political opponents are all tools through which demagogues can undermine democratic political networks and turn them into more autocratic ones [@levitsky_how_2018, pp. 23-24].  Nonetheless, these attacks are visible to all if they are conveyed via broadcast messages.  Alert citizens of the _demos_ could respond to these attacks and defend the democratic nature of their political network.
-
-## Communication Technologies in Democratic Political Networks
 
 In addition to face-to-face political communication, new technologies allow for political messages to reach larger audiences. The emergence of privately operated printing presses allowed a greater range of political messages to be produced and distributed, even if they were critical of the state [@benkler_wealth_2006, p. 186].  Pamphlets and newspapers served as public bidirectional communication, as individuals who disagree may respond with political messages of their own in the same medium.  Face-to-face communication, such as that in the Athenian _agora_, is bidirectional, but of course its reach and range is limited by the physical proximity to their audience.  The bidirectional communication printing made possible allowed for political discussion to occur across larger geographical areas and before a greater audience.
 
@@ -199,7 +175,7 @@ This brief survey of communication networks, from the face-face communication of
 |Computer-Medicated Communication | Bidirectional  | Global             | Decentralised | Minimal | Broadcast  |
 
 
-# Act III - Big Data & Democracy
+# Part III - Big Data & Democracy
 
 As is usually the case, the reality of the Internet's impact on democracy has turned out considerably different to its Utopian promise.  The promise of access to a world of diverse perspectives is not reflected in the experience of many Internet users.  While there are practical issues of finding accurate sources of information on the Internet, directly relevant to our concern here is the diversity of information that is presented to users.  Social media, with its ability to connect like-minded users to each other, can serve to present information from a variety of sources to users.  However, there are two major factors that reduce the diversity of information presented to individuals: the fact that people tend to associate with those with similar views, and that the big data analysis made possible by social media is used to present individuals with information likely to provoke a response from them.  Cass R. Sunstein [-@sunstein_republic:_2017, p. 6] calls these concerns "_people's growing power to filter what they see_, and also _providers' growing power to filter for each of us, based on what they know about us_." (emphasis in original) 
 
@@ -227,9 +203,3 @@ These aspects of the combination of social media and big data analytics (the ten
 The combination of social media and big data analytics has created a new possibility for global, bidirectional, narrowcast political messages.  Democracies have historically developed alongside communication technologies that allowed broadcast messages across large geographical areas and populations at the expense of limiting the speaker's amount to discriminate between different listeners.  Social media offers the perfect platform for political speakers to tailor their messages for separate audiences, rather than offer messages that must resonate with sections of the audience while also avoiding antagonising others.  This ability to communicate different messages to different sections of the _demos_, with a low possibility of these messages coming to the attention of those outside of their intended audience.  Citizens of the _demos_ who receive political messages tailored to their interests, informed by news that reflects their biases, and reinforced by echo chambers filled with others of similar views, risk losing the mutual toleration of citizens with differing political views.  This risks undermining the common identity necessary for a stable democracy to sustain itself.  
 
 As we have described, communication technologies have changed remarkably over the time that democratic societies have existed.  Different technologies have created new challenges and opportunities for democracies.  The combination of social media and big data is no different: democracies are adjusting to the new possibilities for narrowcast political messages that they make available.  Only by recognising the risks these new technologies pose to how citizens are informed and may be influenced will the epistemic justifications for democratic societies continue to be compelling.
-
-
-
-
-Summary: Social networks have changed the political topology. Big data provides more insight into the preferences and biases of individuals.
-
