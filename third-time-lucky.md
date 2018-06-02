@@ -36,12 +36,19 @@ These _epistemic_ justifications of democracy have seen a resurgence in contempo
 
 ### Democracy's epistemic value is surprising given the cognitive foibles of the individuals involved
 
-Plato's scepticism of democracy's epistemic value was justified however, when one considers the cognitive capacities and skills of its constituents. For over 50 years, political and social scientists have been documenting how poorly informed the voting of democratic citizens is (@converse1964).  News polls regularly show how wide-spread the public's knowledge of basic political concepts and belief in untruths is. Two thirds American voters for example, cannot correctly identify the three branches of government and 70% of thought Saddam Hussein was personally responsible for the 9/11 attacks (@shenkman2009 p4).
+Plato's scepticism of democracy's epistemic value was justified however, when one considers the cognitive capacities and skills of its constituents. For over 50 years, political and social scientists have been documenting how poorly informed the voting of democratic citizens is (@converse1964).  News polls regularly show how wide-spread the public's lack of basic political knowledge and belief in untruths is. Two thirds American voters for example, cannot correctly identify the three branches of government and 70% of thought Saddam Hussein was personally responsible for the 9/11 attacks (@shenkman2009 p4).
 
-The problem of voter ignorance remains a rich field of study in political theory that hasn't diminished with time.  In fact given the vast breadth and depth of complexity required to effectively govern a modern state, combined with the diminishingly marginal influence of a vote in large electoral democracies, remaining ignorant on political matters is argued to be rational decision (@downs1957, @parfitt1984).
+The problem of voter ignorance remains a rich field of study in political theory that hasn't diminished with time.  In fact given the vast breadth and depth of complexity required to effectively govern a modern state, combined with the diminishingly marginal influence of a vote in large electoral democracies, remaining ignorant on political matters is argued to be rational decision (@downs1957).
 
+Even if citizens had the means and motivation to become adequately informed however, it is doubtful that they would be capable of reasoning about policy rationally.  Cognitive psychologists have documented a range of biases and flaws in human reasoning.
 
-  - cognitive flaws of human reasoning @dk after part 3
+  - congruence / myside bias 
+  - confirmation bias
+
+These biases manifest especially when reasoning about politics.  Voters reason like sports fans, largely incapable of objectively assessing the merits of policy (@somin2006).  @taber2006 for example, demonstrate how prior voter attitudes to particular policies strongly influence how arguments for those policies are evaluated, uncritically accepting arguments congruent with their prior beliefs and unreflectively rebutting those that aren't.
+
+These biases can even increase as individual reasoning ability increases.  
+
   - diverse values of liberal societies
 
 ### Democratic processes overcome these foibles to produce superior epistemic value.
@@ -65,9 +72,7 @@ In transformative accounts, the public nature of political discourse identifies 
   - self interest can lead to subversion of democracy for private ends
     - see Habermas' "systemically distorted communication" in Knowledge and Human Interests @dd
 
-Political manipulators exploit the psychological disconnect between what people _do_ believe and what people _should_ believe.  They corrupt democracy by employing demagoguery, sophistry, and inducing apathy amongst the _demos_.  
-
-Demagoguery and sophistry are two reasons for Plato's hostility to democracy.  In the *Sophist* (267b-c), Plato distinguishes between demagogues (someone who "can maintain his insincerity in long speeches to a crowd") and sophists (those using "short speeches in private conversation to force the person talking with him to contradict himself").  Demagogues seek and maintain political power by exploiting prejudice and ignorance within the citizenry, and by portraying themselves as the only solution to the society's real or imagined problems.
+Political manipulators exploit the psychological disconnect between what people _do_ believe and what people _should_ believe.  They corrupt democracy by employing demagoguery, sophistry, and inducing apathy amongst the _demos_.  Demagoguery and sophistry are two reasons for Plato's hostility to democracy.  In the *Sophist* (267b-c), Plato distinguishes between demagogues (someone who "can maintain his insincerity in long speeches to a crowd") and sophists (those using "short speeches in private conversation to force the person talking with him to contradict himself").  Demagogues seek and maintain political power by exploiting prejudice and ignorance within the citizenry, and by portraying themselves as the only solution to the society's real or imagined problems.
 
 Sophistry is the use of argumentative and persuasive techniques to convince an audience of something even if it is inconsistent with the facts or the audience's own stated beliefs and commitments.  In the *Gorgias*, Plato's Socrates presses the claim against the orator Gorgias that a good orator can be more persuasive to those without expert knowledge of a subject than an expert (459b). As a result, skilled communicators can be persuasive without necessarily being knowledgeable about their subject.  If the audience is poorly educated about the subject under debate, they may be persuaded to accept a conclusion that does not depend on the truth of its statements or the logic of the arguments presented to convince its audience to support a political decision.
 
@@ -75,7 +80,7 @@ The third corrupting factor, apathy, weakens democracy by discouraging interest 
 
 ### Bad actors need not change peoples from antagonists to protagonists
 
-It should be made clear here that demagogues and sophists don't need to change the voting patterns of large swaths of the citizenry in order to subvert the epistemic value of democracy.  Small shifts at the margins are often sufficient.  Trump's win in the 2016 US Presidental election, for example, was decided by fewer than 100,000 votes across three key states of Michigan, Pennsylvania, and Wisconsin (@fec2016).
+It should be made clear here that demagogues and sophists don't need to change the voting patterns of large swaths of the citizenry in order to subvert the epistemic value of democracy.  Small shifts at the margins are often sufficient.  Trump's win in the 2016 US Presidental election for example, was decided by fewer than 100,000 votes across three key states of Michigan, Pennsylvania, and Wisconsin (@fec2016).
 
 Neither do they need to radically shift the beliefs of the citizenry from one side of an issue to the other.  Empiric research suggests that it is very difficult to change voting behaviour of citizens who already identify with a party or issue (@cite).  Despite our cognitive flaws, and often because of them, it is difficult to alter entrenched beliefs (@cite belief preservation).  Instead, demagogues and sophists can undermine epistemic democracy in four key ways: increasing voter turnout amongst protagonistic voters; suppressing voter turnout amongst antagonistic voters; shifting voter preference amongst undecided voters; and undermining confidence in the legitimacy of democratic outcomes.
 
