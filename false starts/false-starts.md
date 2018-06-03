@@ -1,4 +1,8 @@
 
+
+It is relatively straight-forward to hold individuals to account for face-to-face communication, since it is difficult to obscure one's identity in this context.  Liars and demagogues may be challenged directly by others.  As new communications technology emerged, it became easier to disguise the source of political messages. However, it also became more difficult to limit messages to a specific group within a broader audience.  There is an inherent trade-off between how narrowly the content of a message can be targeted at a specific group and how far that message can reach across a network.
+
+
   - Topologies can form many patterns.  they enable C&C
   - Autocratic topology - star shaped.
   - Democratic topologies: Rule by the people requires a particular pattern -- dense peer-to-peer.  
