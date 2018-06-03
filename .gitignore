@@ -1,6 +1,7 @@
-
+*.docx
 *.md~
 *.bib#
 *.bib
 .*
 #.
+false starts/*
