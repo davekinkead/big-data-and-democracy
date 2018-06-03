@@ -1,5 +1,19 @@
 
 
+This distinction between open and closed interactions corresponds with the distinction between broadcast and narrowcast messages.  Social media, therefore, offers a platform for sending narrowcast messages to a select audience with a global reach.
+
+The accounts users follow serve to direct information of interest to the user.  In the terms of our earlier discussion of communication networks, social media are duplex communication networks with a negligible cost for broadcasting messages.  They have a global reach, but unlike the utopian pictures of Internet communication, they are centralised (as they required a social media network operator) and allow for narrowcast messages. The table below lists the characteristics of social media and the communication networks that preceded it.
+
+|Medium       | Direction  | Reach          | Structure     | Cost    | Targeting  |
+|--------     | ---------  | -------        | -----------   | ------  | -----------|
+|Conversation | Duplex     | Interpersonal  | Decentralised | Minimal | Narrowcast |
+|Agora        | Duplex     | Local          | Decentralised | Low     | Broadcast  |
+|Print        | Simplex    | Regional       | Centralised   | Medium  | Broadcast  |
+|Mass Media   | Simplex    | National       | Centralised   | High    | Broadcast  |
+|Internet     | Multiplex  | Global         | Decentralised | Minimal | Broadcast  |
+|Social Media | Multiplex  | Global         | Centralised   | Minimal | Narrowcast |
+
+
 It is relatively straight-forward to hold individuals to account for face-to-face communication, since it is difficult to obscure one's identity in this context.  Liars and demagogues may be challenged directly by others.  As new communications technology emerged, it became easier to disguise the source of political messages. However, it also became more difficult to limit messages to a specific group within a broader audience.  There is an inherent trade-off between how narrowly the content of a message can be targeted at a specific group and how far that message can reach across a network.
 
 
