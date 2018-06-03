@@ -2,6 +2,4 @@
 *.md~
 *.bib#
 *.bib
-.*
-#.
-false starts/*
+.DS_Store
