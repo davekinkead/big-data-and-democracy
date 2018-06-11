@@ -8,6 +8,10 @@ authors:
 status: outline
 ---
 
+Forthcoming in chapter in Big Data and Epistemic Justifications of Democracy, Routledge.
+
+## Abstract
+
 A stable democracy requires a shared identity and culture.  Its citizens need to identify as one _demos_ lest it fracture and balkanise.  This in turn necessitates some common communication network for political messages to be transmitted, understood, and evaluated by citizens.  What demarcates one _demos_ from another then, is a function of the communication networks that connects the citizens of those _demoi_, allowing them to debate and persuade each other on the proper conduct of government.  
 
 For the Greeks, their network was the Agora; for the Federalists, the newspaper; for us today, it is the internet. Until now, the physical nature of these communication networks has resulted in a trade off between the reach of a network and the ability to target and discriminate the content of a message on that network toward individual citizens. 
@@ -17,3 +21,6 @@ One to one conversation in the Agora was highly targeted but could reach only as
 The internet and big data analytics have changed the nature of political communication by decoupling network reach from message discrimination.  This allows individually tailored content to be distributed on a global scale without fear that the content of those messages will be overheard by others who may contest or reject it. 
 
 In this chapter, we explore what impact this decoupling is having on democracy.  We show how social media and big data combine to create echo chambers of political discourse that undermine key assumptions underpinning epistemic justifications of democracy: specifically, the independence and competence assumptions of Condorcet's Jury Theorem, and the shared identity assumption of deliberative accounts.  We also offer some suggestions as to how the harms of this decoupling can be reduced. 
+
+Copyright 2017-2018 Dave Kinkead & David Douglass. All rights reserved.
+
