@@ -8,7 +8,11 @@ authors:
 status: outline
 ---
 
-Forthcoming in chapter in Big Data and Epistemic Justifications of Democracy, Routledge.
+Our forthcoming chapter in Big Data and Epistemic Justifications of Democracy, Edinburgh University Press.
+
+[Pre Review Chapter](/chapter)
+
+[Authors](/authors)
 
 ## Abstract
 
