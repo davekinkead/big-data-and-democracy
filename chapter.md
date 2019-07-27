@@ -5,7 +5,7 @@ authors:
     email: d.kinkead@uq.edu.au
   - name: David Douglas
     email: dmdouglas256@tuta.io
-status: outline
+status: pre-review
 bibliography: big_data_and_democracy.bib
 ---
 
