@@ -6,8 +6,6 @@ authors:
   - name: David Douglas
     email: dmdouglas256@tuta.io
 status: pre-review
-readme_index:
-  remove_originals: true
 ---
 
 
@@ -15,10 +13,6 @@ readme_index:
 ## The Network and the Demos: Big Data & the Epistemic Justifications of Democracy
 
 Our forthcoming chapter in Big Data and Epistemic Justifications of Democracy, Edinburgh University Press.
-
-[Pre Review Chapter](chapter)
-
-[Authors](authors)
 
 ## Abstract
 
