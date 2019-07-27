@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Big Data and Democracy
+readme_index:
+  remove_originals: true
