@@ -12,7 +12,10 @@ status: pre-review
 
 ## The Network and the Demos: Big Data & the Epistemic Justifications of Democracy
 
-Our forthcoming chapter in Big Data and Epistemic Justifications of Democracy, Edinburgh University Press.
+Our forthcoming chapter in Big Data and Epistemic Justifications of Democracy, Edinburgh University Press.  Please cite as:
+
+Kinkead, D. & Douglas, D. (2020) _The Network and the Demos: Big Data & the Epistemic Justifications of Democracy_. In K. Macnish & J. Galliott (Eds.), Big Data and Democracy. Edinburgh University Press.
+
 
 ## Abstract
 
