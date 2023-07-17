@@ -1,5 +1,5 @@
 ---
-title: The Network and the Demos: Big Data & the Epistemic Justifications of Democracy
+title: "The Network and the Demos: Big Data & the Epistemic Justifications of Democracy"
 authors: 
 - name: Dave Kinkead
   email: d.kinkead@uq.edu.au
