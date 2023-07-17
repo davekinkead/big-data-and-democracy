@@ -1,21 +1,20 @@
 ---
 title: The Network and the Demos: Big Data & the Epistemic Justifications of Democracy
 authors: 
-  - name: Dave Kinkead
-    email: d.kinkead@uq.edu.au
-  - name: David Douglas
-    email: dmdouglas256@tuta.io
-status: pre-review
+- name: Dave Kinkead
+  email: d.kinkead@uq.edu.au
+- name: David Douglas
+  email: dmdouglas256@tuta.io
+status: published
 ---
 
 
 
 ## The Network and the Demos: Big Data & the Epistemic Justifications of Democracy
 
-Our forthcoming chapter in Big Data and Epistemic Justifications of Democracy, Edinburgh University Press.  Please cite as:
-
 Kinkead, D. & Douglas, D. (2020) _The Network and the Demos: Big Data & the Epistemic Justifications of Democracy_. In K. Macnish & J. Galliott (Eds.), Big Data and Democracy. Edinburgh University Press.
 
+This is our pre-review version of our chapter published in [Big Data and Epistemic Justifications of Democracy, Edinburgh University Press](https://edinburghuniversitypress.com/book-big-data-and-democracy.html).
 
 ## Abstract
 
@@ -29,5 +28,15 @@ The internet and big data analytics have changed the nature of political communi
 
 In this chapter, we explore what impact this decoupling is having on democracy.  We show how social media and big data combine to create echo chambers of political discourse that undermine key assumptions underpinning epistemic justifications of democracy: specifically, the independence and competence assumptions of Condorcet's Jury Theorem, and the shared identity assumption of deliberative accounts.  We also offer some suggestions as to how the harms of this decoupling can be reduced. 
 
-Copyright 2017-2018 Dave Kinkead & David Douglass. All rights reserved.
+Copyright 2017-2020 Dave Kinkead & David Douglass. All rights reserved.
 
+```bibtex
+@incollection{Kinkead2020-KINTNA-5,
+  title = {The Network and the Demos: Big Data \& the Epistemic Justifications of Democracy},
+  author = {Dave Kinkead and David M. Douglas},
+  year = {2020},
+  editor = {Kevin Macnish and Jai Galliott},
+  booktitle = {Big Data and Democracy},
+  publisher = {Edinburgh: Edinburgh University Press}
+}
+```
